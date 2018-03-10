@@ -1,3 +1,8 @@
+## 结合摄像头拓扑的Reid
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 ## Our Method
 - retrain the image classifier
 - deep learning model

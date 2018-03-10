@@ -1,4 +1,8 @@
 ## 读论文系列：Deep transfer learning person re-identification
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 [arxiv 2016](https://arxiv.org/abs/1611.05244) by Mengyue Geng, Yaowei Wang, Tao Xiang, Yonghong Tian
 
 ### Transfer Learning

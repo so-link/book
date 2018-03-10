@@ -1,4 +1,8 @@
 ## Person Re-id评价指标
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 - Rank Accuracy：
   
   将gallery中的图片，按照与probe图片的相似度排序，如果在第X个之前就命中，则rankX命中数+1, rankX命中数/probe图片总数则为rankX acc，rankX有时又名为topK，当gallery中存在junk image时，命中junk image时跳过。
