@@ -1,5 +1,7 @@
 # ACTIVITY四种LAUNCHMODE
 
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
 
 #### **1.Standard**
 
