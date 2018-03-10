@@ -1,5 +1,8 @@
 # 读论文系列：Object Detection SPP-net
 
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 本文为您解读SPP-net:
 
 > Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition
