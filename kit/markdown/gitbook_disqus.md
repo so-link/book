@@ -1,4 +1,8 @@
-###gitbook 支持disqus评论
+### gitbook 支持disqus评论
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 
 - 注册一个disqus账号
 - 右上角齿轮 - add disqus to site 或者直接[这样](https://disqus.com/admin/create/)
