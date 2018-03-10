@@ -1,5 +1,9 @@
 ## Linux Note
 
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 ### 临时切换到root用户
 
 > sudo su
