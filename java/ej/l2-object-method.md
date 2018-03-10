@@ -1,4 +1,8 @@
 # 对于所有对象都通用的方法
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 ## equals
 Object本身的equals区分了内存中对象是否是同一个：
 - 不需要覆盖equals的情况：
