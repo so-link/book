@@ -1,4 +1,9 @@
 # mscnn
+
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 - [Source Code](https://github.com/zhaoweicai/mscnn)
 - 别人写的[教程](https://gist.github.com/arundasan91/b432cb011d1c45b65222d0fac5f9232c)
 
