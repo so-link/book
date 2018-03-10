@@ -1,10 +1,6 @@
+- [文章列表](posts/README.md)
 - [按作者索引](index-by-author/README.md)
  - [陈伟航](http://cweihang.cn)
- - 黄伙贤
- - 孙庆辉
- - 王鑫同
- - 肖钦哲
- - 钟嘉杰
 - [Android](android/README.md)
  - [activity](android/activity/README.md)
    - [Activity四种启动模式](android/activity/Activity四种启动模式.md)
