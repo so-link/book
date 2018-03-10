@@ -98,4 +98,5 @@
      - [科学上网](kit/ss/README.md)
 - [thinking-in-program](thinking-in-program/README.md)
     - [怎样打日志](thinking-in-program/log.md)
+- [投稿指南](publish.md)
 
