@@ -1,4 +1,8 @@
 # CVPR2016中的Re-id
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 ## Part-based-CNN
 - DataSet: i-LIDS, PRID2011, VIPeR and CUHK01
 - 同时调整特征提取和距离测量公式的参数
