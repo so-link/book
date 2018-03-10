@@ -1,8 +1,11 @@
-##VIM NOTE
+## VIM NOTE
+
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
 
 
 
-###vim plugin collections（2016-1-22 ）
+### vim plugin collections（2016-1-22 ）
 
 （参考 https://www.youtube.com/watch?v=0QFR-_wUoA0）
 
@@ -32,7 +35,7 @@
 
  
 
-###vim好看的主题 dacular(2016-1-28) 
+### vim好看的主题 dacular(2016-1-28) 
 darcular 谷歌搜这个名字就有挺多个版本了
 
 ###vim复制到全局剪贴板
@@ -42,12 +45,12 @@ visual下选中，然后依次输入
 
 
 
-###vim替换（2016-1-29）
+### vim替换（2016-1-29）
 
 :%s/src/dst
 
  
-###vim背景透明（2016-2-21）
+### vim背景透明（2016-2-21）
 
 hi Normal  ctermfg=252 ctermbg=none
 
