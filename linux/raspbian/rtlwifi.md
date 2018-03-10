@@ -1,4 +1,8 @@
 # 树莓派无线网卡监听模式
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 > It works! RTL8188 monitor mode on Raspberry 3B+ 
 
 ### Background
