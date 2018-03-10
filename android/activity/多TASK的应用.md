@@ -1,5 +1,7 @@
 ## 多TASK的应用
 
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
 这部分的想法都是基于以下两点：
 
 > 1.Activity可能被复用，可能是复用Activity的功能，还可能是复用Activity的状态；
