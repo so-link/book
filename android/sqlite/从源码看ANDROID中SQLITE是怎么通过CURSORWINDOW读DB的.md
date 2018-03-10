@@ -1,5 +1,7 @@
 ## 从源码看ANDROID中SQLITE是怎么通过CURSORWINDOW读DB的
 
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
 **执行QUERY**
 
 执行SQLiteDatabase类中query系列函数时，只会构造查询信息，不会执行查询。
