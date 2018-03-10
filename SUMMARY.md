@@ -1,3 +1,9 @@
+- 按作者索引
+ - 陈伟航
+ - 孙庆辉
+ - 王鑫同
+ - 肖钦哲
+ - 钟嘉杰
 - [Android](android/README.md)
  - [activity](android/activity/README.md)
    - [Activity四种启动模式](android/activity/Activity四种启动模式.md)
