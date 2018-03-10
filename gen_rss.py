@@ -16,16 +16,19 @@ posts = []
 
 with open(SUMMARY_MD_PATH) as file:
     for line in file:
-        link = line.strip()
-        match = _re_link.search(link)
-        if match is None:
-            continue
-        title = match.group(1)
-        path = match.group(2)
-        if path.endswith('.md') and not path.endswith('README.md'):
-            file_path = os.path.join(BOOK_DIR, path)
-            mtime = time.localtime(os.stat(file_path).st_mtime)
-            posts.append((title, path, mtime))
+        try:
+            link = line.strip()
+            match = _re_link.search(link)
+            if match is None:
+                continue
+            title = match.group(1)
+            path = match.group(2)
+            if path.endswith('.md') and not path.endswith('README.md'):
+                file_path = os.path.join(BOOK_DIR, path)
+                mtime = time.localtime(os.stat(file_path).st_mtime)
+                posts.append((title, path, mtime))
+        except Exception as e:
+            print(e)
 
 posts = list(set(posts))
 
