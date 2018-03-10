@@ -53,5 +53,7 @@ rss = PyRSS2Gen.RSS2(
     lastBuildDate = datetime.datetime.now(),
 )
 
-rss.write_xml(open(RSS_XML_PATH, 'w'))
+rss_content = rss.to_xml(encoding='utf-8')
+with open(RSS_XML_PATH, 'w') as file:
+    file.write(rss_content)
 
