@@ -1,5 +1,5 @@
 - [文章列表](posts/README.md)
-- [按作者索引](index-by-author/README.md)
+- [按作者索引](about.md)
  - [陈伟航](http://cweihang.cn)
 - [Android](android/README.md)
  - [activity](android/activity/README.md)
