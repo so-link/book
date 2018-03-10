@@ -29,5 +29,5 @@ posts.sort(key=lambda entry: (entry[2], entry[0]), reverse=True)
 
 with open(POST_LIST_FILE_PATH, 'w') as file:
     for title, path, mtime in posts:
-        file.write('- [{} {}]({})\n\n'.format(time.strftime('%Y-%m-%d', mtime), title, path))
+        file.write('- [{} {}](/{}.html)\n\n'.format(time.strftime('%Y-%m-%d', mtime), title, path[:-3]))
 
