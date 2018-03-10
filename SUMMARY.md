@@ -1,4 +1,4 @@
-- [按作者索引](INDEX-BY-AUTHOR.md)
+- [按作者索引](.)
  - [陈伟航](http://cweihang.cn)
  - 黄伙贤
  - 孙庆辉
