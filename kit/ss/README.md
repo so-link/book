@@ -1,4 +1,8 @@
 ## Shadowsocks配置
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 ### 服务端
 - 安装python
 - 安装pip
