@@ -1,4 +1,7 @@
 ## SQLITE在ANDROID上的一个BUG：
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
 > SQLiteCantOpenDatabaseException: unable to open database file
 
 先上log
