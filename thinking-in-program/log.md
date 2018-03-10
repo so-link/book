@@ -1,5 +1,9 @@
 ##LOG
 
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
+
 LOG最重要的作用即是为程序出bug时调试提供思路，
 
 一个自定义的log，需要有几个要素：
