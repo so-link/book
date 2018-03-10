@@ -6,11 +6,12 @@ import PyRSS2Gen
 _re_link = re.compile(r'\[(.*)\]\((.*)\)$')
 
 BOOK_DIR = '/home/gitbook/book'
+BLOG_DIR = '/home/gitbook/blog'
 ROOT_URL = 'https://blog.so-link.org'
 
 SUMMARY_MD_PATH = os.path.join(BOOK_DIR, 'SUMMARY.md')
 POST_LIST_FILE_PATH = os.path.join(BOOK_DIR, 'posts/README.md')
-RSS_XML_PATH = os.path.join(BOOK_DIR, 'rss.xml')
+RSS_XML_PATH = os.path.join(BLOG_DIR, 'rss.xml')
 posts = []
 
 with open(SUMMARY_MD_PATH) as file:
