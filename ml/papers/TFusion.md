@@ -1,5 +1,8 @@
 # TFusion技术实现
 
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 ## 图像分类器
 图像分类器的任务是在源数据集上做预训练，在目标数据集上计算图片对之间的图像相似度，这里涉及数据预处理，网络构建，训练，调参，预测结果后处理与可视化等工作。
 - 数据预处理是一个难点，需要按一定比例构造输入的正负样本对，正样本代表相同的图片对，负样本代表不同的图片对
@@ -31,9 +34,11 @@
 
 Please cite this paper in your publications if it helps your research:
 
+```bib
 @article{TFusion, 
 title={Unsupervised Cross-dataset Person Re-identification by Transfer Learning of Spatial-Temporal Patterns}, 
 author={Jianming, Lv and Weihang, Chen and Qing, Li and Can, Yang}, 
-journal={arxiv}, 
-year={2017} 
+journal={CVPR}, 
+year={2018} 
 }
+```
