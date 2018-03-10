@@ -1,4 +1,8 @@
-##Servlet tomcat部署
+## Servlet tomcat部署
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 网上搜到的很多利用eclipse结合tomcat开发servlet的教程都要修改server.xml
 
 感觉这种方式太粗暴了，server.xml最好是与应用无关的，
