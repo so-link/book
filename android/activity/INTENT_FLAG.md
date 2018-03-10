@@ -1,5 +1,7 @@
 ## Intent Flag
 
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
 FLAG_与LaunchMode相比最大的不同是临时性
 
 **1.FLAG_ACTIVITY_NEW_TASK：**
