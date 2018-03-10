@@ -1,6 +1,9 @@
 # 刷遍小绿点
 
-转载请注明出处：https://ahangchen.gitbooks.io/windy-afternoon/content/kit/git/green_blush.html
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 
 工程[地址](https://github.com/ahangchen/green)，欢迎star!!!
 
