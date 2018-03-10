@@ -28,6 +28,6 @@
 -  [Ubuntu初始配置](linux/ubuntu_init.md)
 
 
-
+> [投稿指南](publish.md)
 
 
