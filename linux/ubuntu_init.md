@@ -1,6 +1,9 @@
 # Ubuntu安装与初始配置
 
-转载请注明出处：https://github.com/ahangchen/windy-afternoon/blob/master/linux/ubuntu_init.md
+
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
 
 Ubuntu版本 14.04LTS 64位
 
