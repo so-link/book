@@ -1,5 +1,9 @@
 ## ECCV 2016 Hydra CCNN
 
+> 转载请注明作者[梦里茶](https://github.com/ahangchen)
+
+
+
 Towards perspective-free object counting with deep learning，这是一篇发在ECCV 2016上的论文，提出一种多输入的CNN模型来解决Object Counting的问题。
 
 ### Object Counting
