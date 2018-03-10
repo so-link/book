@@ -1,3 +1,4 @@
+#!/bin/sh
 cd /home/gitbook/book
 git pull
 docker run  -v /home/gitbook/book:/book -v /home/gitbook/blog:/blog node-gitbook gitbook install
