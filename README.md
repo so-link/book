@@ -9,6 +9,7 @@
 | [Linux](linux/note.md) | [Kit](kit/README.md) | [Thinking](thinking-in-program/README.md)|
 
 > [投稿指南](publish.md)
+>
 > [RSS Feed](/feed)
 
 
