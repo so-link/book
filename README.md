@@ -10,7 +10,7 @@
 
 > [投稿指南](publish.md)
 >
-> [RSS Feed](/feed)
+> [RSS Feed](https://blog.so-link.org/feed)
 
 
 ### 推荐阅读
