@@ -86,6 +86,7 @@
     - [json接口资源](web-front/json_res.md)
 - [UI](UI/README.md)
 - [kit](kit/README.md)
+     - [订阅我们博客的RSS吧！](rss/rss.md)
      - [vim](kit/vim/note.md)
      - [git/github](kit/git/note.md)
        - [刷爆github小绿点](kit/git/green_blush.md)
