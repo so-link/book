@@ -12,7 +12,7 @@
 blockquote {
     margin-bottom: 20px;
     background-color: whitesmoke;
-    border-left: 5px solid #00af8a;
+    border-left: 5px solid #00896C;
     word-break: break-word;
 }
 .markdown-section blockquote p {
@@ -33,7 +33,7 @@ blockquote {
 }
 .book-header {
    /*background: #FB9966;*/
-   background: #00af8a;
+   background: #00896C;
 }
 .book-header h1 a, .book-header h1 a:hover {
    color: white;
