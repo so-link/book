@@ -45,7 +45,7 @@ for title, path, mtime in posts:
         title = title,
         link = '{}/{}.html'.format(ROOT_URL, path[:-3]),
         guid = PyRSS2Gen.Guid(path),
-        pubDate = datetime.datetime.fromtimestamp(time.mktime(mtime)),
+        pubDate = datetime.datetime.fromtimestamp(time.mktime(mtime)) - datetime.timedelta(hours=8),
     ))
 
 rss = PyRSS2Gen.RSS2(
