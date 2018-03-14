@@ -23,10 +23,10 @@ def ignored(path):
     return False
 
 def md2url(link):
-    if link.endswith('.md'):
-        return '/{}.html'.format(link[:-3])
     if link.endswith('README.md'):
         return '/{}'.format(link[:-9])
+    if link.endswith('.md'):
+        return '/{}.html'.format(link[:-3])
     return link
 
 posts = []
