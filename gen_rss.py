@@ -32,7 +32,7 @@ with open(SUMMARY_MD_PATH) as file:
             path = match.group(2)
             if path.endswith('.md'):
                 file_path = os.path.join(BOOK_DIR, path)
-                mtime = time.localtime(os.stat(file_path).st_mtime)
+                mtime = time.localtime(os.stat(file_path).st_ctime)
                 posts.append((title, path, mtime))
         except Exception as e:
             print(e)
