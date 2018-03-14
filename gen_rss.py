@@ -12,6 +12,15 @@ ROOT_URL = 'https://blog.so-link.org'
 SUMMARY_MD_PATH = os.path.join(BOOK_DIR, 'SUMMARY.md')
 POST_LIST_FILE_PATH = os.path.join(BOOK_DIR, 'posts/README.md')
 RSS_XML_PATH = os.path.join(BOOK_DIR, 'rss.xml')
+IGNORE_PATH_PREFIX = [
+    'posts/',
+]
+
+def ignored(path):
+    for prefix in IGNORE_PATH_PREFIX:
+        if path.startswith(prefix):
+            return True
+    return False
 
 def md2url(link):
     if link.endswith('.md'):
@@ -19,6 +28,7 @@ def md2url(link):
     if link.endswith('README.md'):
         return '/{}'.format(link[:-9])
     return link
+
 posts = []
 
 with open(SUMMARY_MD_PATH) as file:
@@ -30,7 +40,7 @@ with open(SUMMARY_MD_PATH) as file:
                 continue
             title = match.group(1)
             path = match.group(2)
-            if path.endswith('.md'):
+            if path.endswith('.md') and not ignored(path):
                 file_path = os.path.join(BOOK_DIR, path)
                 mtime = time.localtime(os.stat(file_path).st_ctime)
                 posts.append((title, path, mtime))
