@@ -12,6 +12,13 @@ ROOT_URL = 'https://blog.so-link.org'
 SUMMARY_MD_PATH = os.path.join(BOOK_DIR, 'SUMMARY.md')
 POST_LIST_FILE_PATH = os.path.join(BOOK_DIR, 'posts/README.md')
 RSS_XML_PATH = os.path.join(BOOK_DIR, 'rss.xml')
+
+def md2url(link):
+    if link.endswith('.md'):
+        return '/{}.html'.format(link[:-3])
+    if link.endswith('README.md'):
+        return '/{}'.format(link[:-9])
+    return link
 posts = []
 
 with open(SUMMARY_MD_PATH) as file:
@@ -23,7 +30,7 @@ with open(SUMMARY_MD_PATH) as file:
                 continue
             title = match.group(1)
             path = match.group(2)
-            if path.endswith('.md') and not path.endswith('README.md'):
+            if path.endswith('.md'):
                 file_path = os.path.join(BOOK_DIR, path)
                 mtime = time.localtime(os.stat(file_path).st_mtime)
                 posts.append((title, path, mtime))
@@ -36,14 +43,14 @@ posts.sort(key=lambda entry: (entry[2], entry[0]), reverse=True)
 
 with open(POST_LIST_FILE_PATH, 'w') as file:
     for title, path, mtime in posts:
-        file.write('- [{} {}](/{}.html)\n\n'.format(time.strftime('%Y-%m-%d', mtime), title, path[:-3]))
+        file.write('- [{} {}]({})\n\n'.format(time.strftime('%Y-%m-%d', mtime), title, md2url(path)))
 
 rss2items = []
 
 for title, path, mtime in posts:
     rss2items.append(PyRSS2Gen.RSSItem(
         title = title,
-        link = '{}/{}.html'.format(ROOT_URL, path[:-3]),
+        link = '{}/{}'.format(ROOT_URL, md2url(path)),
         guid = PyRSS2Gen.Guid(path),
         pubDate = datetime.datetime.fromtimestamp(time.mktime(mtime)) - datetime.timedelta(hours=8),
     ))
