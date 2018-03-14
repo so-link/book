@@ -5,6 +5,7 @@
 
 [增强学习Reinforcement Learning经典算法梳理](http://blog.csdn.net/column/details/deeprl.html)
 
+[深度强化学习——从DQN到DDPG](https://zhuanlan.zhihu.com/p/28549596)
 
 
 Some useful link:
