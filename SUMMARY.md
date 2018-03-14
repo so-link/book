@@ -54,7 +54,7 @@
       - [规则学习](ml/melon/ch15.md)
       - [强化学习](ml/melon/ch16.md)
       - [附录](ml/melon/ch17.md)
-  - [强化学习](ml/RL/README.md)
+- [强化学习](ml/RL/README.md)
 - [Java](java/README.md)
      - [java web](java/java-web/note.md)
        - [Servlet部署](java/java-web/Servlet组织.md)
