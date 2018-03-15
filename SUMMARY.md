@@ -56,6 +56,8 @@
       - [附录](ml/melon/ch17.md)
 - [强化学习](ml/RL/README.md)
     - [入门](ml/RL/README.md)
+- [图数据挖掘](graph-learning/README.md)
+  - [谱聚类](graph-learning/spectral-clustering/spectral-clustering.md)
 - [Java](java/README.md)
      - [java web](java/java-web/note.md)
        - [Servlet部署](java/java-web/Servlet组织.md)
