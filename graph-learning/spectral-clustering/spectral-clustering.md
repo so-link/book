@@ -82,6 +82,8 @@ $$f'Lf=\frac{1}{2}\sum_{i,j=1}^{n}w_{ij}(f_i-f_j)^2$$
 
 先近似求解$$k=2$$的$$\mathrm{RatioCut}$$问题。
 
+问题的目标函数如下：
+
 $$\min_{A \subset V} \mathrm{RatioCut}(A, \bar{A})$$
 
 对于一个子集$$A \subset V$$，定义向量$$f=(f_1, ..., f_n)' \in \mathbb{R}^n$$，这个向量的元素取值如下：
