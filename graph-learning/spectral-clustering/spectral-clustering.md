@@ -32,6 +32,8 @@
 
 首先介绍相关定义。
 
+---
+
 **最小割问题**：最小割问题的目标是最小化如下目标函数
 
 $$\mathrm{cut}(A_1 , A_2 , ... , A_k)=\frac{1}{2} \sum_{i=1}^{k} \mathrm{W}(A_i, \bar{A}_i)$$
@@ -43,6 +45,8 @@ $$\mathrm{cut}(A_1 , A_2 , ... , A_k)=\frac{1}{2} \sum_{i=1}^{k} \mathrm{W}(A_i,
 - $$\mathrm{W}(A_i, \bar{A_i})=\sum_{i \in A , j \in B} w_{ij}$$，表示两个分量之间的连接的权值的和；
 
 为了使分割的每个分量具有合理的大小，在目标函数中引入图的大小相关项，如下：
+
+---
 
 **RatioCut**：使用每个分量的顶点数量作为这个分量的大小，目标函数如下：
 
@@ -81,6 +85,8 @@ $$f'Lf=\frac{1}{2}\sum_{i,j=1}^{n}w_{ij}(f_i-f_j)^2$$
 ## 近似求解
 
 先近似求解$$k=2$$的$$\mathrm{RatioCut}$$问题。
+
+---
 
 问题的目标函数如下：
 
@@ -124,6 +130,8 @@ v_i \in \bar{A} \quad & \mathrm{if} \quad  f_i < 0
 \end{aligned}
 \right.
 $$
+
+---
 
 对于任意大小$$k$$的$$\mathrm{RatioCut}$$问题，定义$$H \in \mathbb{R}^{n \times k}$$，$$H=\{h_1, ..., h_k\}$$，其中$$h_j=(h_{1,j}, ..., h_{n, j})$$，其中
 
