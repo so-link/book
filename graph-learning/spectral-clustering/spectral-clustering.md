@@ -155,7 +155,7 @@ $$\min_{H \in \mathbb{R}^{n \times k}} \mathrm{Tr}(H'LH), \quad s.t. \quad H'H=I
 
 根据Rayleigh-Ritz定理我们可以直接得出，当矩阵$$H$$的第$$j$$列为矩阵$$L$$的第$$j+1$$个特征值$$\lambda_{j+1}$$所对应的特征向量时，上述目标函数的取值最小。
 
-求得矩阵$$H$$后，取矩阵$$H$$的第$$i$$行作为顶点$$v_i$$的feature，再运行k-means算法聚类即可。
+求得矩阵$$H$$后，取矩阵$$H$$的第$$i$$行作为顶点$$v_i$$的embedding，再运行k-means算法聚类即可。
 
 ## 谱聚类算法流程
 
@@ -165,11 +165,11 @@ $$\min_{H \in \mathbb{R}^{n \times k}} \mathrm{Tr}(H'LH), \quad s.t. \quad H'H=I
 
 (3) 取矩阵$$L$$的前$$k$$个特征向量组成$$H \in \mathbb{R}^{n \times k}$$；
 
-(4) 取矩阵$$H$$的第$$i$$行作为顶点$$v_i$$的feature，运行k-means算法得到聚类结果。
+(4) 取矩阵$$H$$的第$$i$$行作为顶点$$v_i$$的embedding，运行k-means算法得到聚类结果。
 
 ## 讨论: Graph Laplacian矩阵的特征向量
 
-通过上述问题可以看出，Graph Laplacian矩阵$$L$$的特征向量在区分顶点的类别上起重要作用，可作为顶点的feature使用。所以可以看到这个矩阵和它的特征向量被广泛用在很多其它图学习的算法中。
+通过上述问题可以看出，Graph Laplacian矩阵$$L$$的特征向量在区分顶点的类别上起重要作用，可作为顶点的embedding使用。所以可以看到这个矩阵和它的特征向量被广泛用在很多其它图学习的算法中。
 
 ## 参考资料
 
