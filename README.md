@@ -16,6 +16,7 @@
 ### 推荐阅读
 
 #### 机器学习与数据挖掘
+- [CVPR2018: TFusion完全解读](ml/papers/TFusion.md)
 - [读论文系列](ml/papers/README.md)
 - [谷歌深度学习教程笔记](https://github.com/ahangchen/GDLnotes)
 
