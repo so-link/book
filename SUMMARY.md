@@ -22,6 +22,7 @@
     - [Matlab](ml/matlab/README.md)
       - [Matlab Remote IPC自动化数据处理](ml/matlab/ripc_auto.md)
   - [讲座论文系列](ml/papers/README.md)
+    - [CVPR 2018: TFusion完全解读](ml/papers/TFusion.md)
     - [CNCC2017 琐记](ml/papers/cncc2017.md)
     - [ECCV 2016 Hydra CCNN](ml/papers/eccv2016_hydra_ccnn.md)
     - [CNCC2017深度学习与跨媒体智能](ml/papers/cncc_cv.md)
