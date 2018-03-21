@@ -159,15 +159,15 @@
 = Pr(v<sub>i</sub>,v<sub>j</sub>,c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>|P<sub>i</sub>=P<sub>j</sub>) *Pr(P<sub>i</sub>=P<sub>j</sub>)/ Pr(v<sub>i</sub>,v<sub>j</sub>,c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>)
 
 由时空分布和图像分布的独立性假设（长得像的人运动规律不一定像），我们可以拆解第一项，得到
-> = Pr(v<sub>i</sub>,v<sub>j</sub>|P<sub>i</sub>=P<sub>j</sub>)*Pr(c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>|P<sub>i</sub>=P<sub>j</sub>) *Pr(P<sub>i</sub>=P<sub>j</sub>)/ Pr(v<sub>i</sub>,v<sub>j</sub>,c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>)
+> = Pr(v<sub>i</sub>,v<sub>j</sub>|P<sub>i</sub>=P<sub>j</sub>) * Pr(c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>|P<sub>i</sub>=P<sub>j</sub>) * Pr(P<sub>i</sub>=P<sub>j</sub>)/ Pr(v<sub>i</sub>,v<sub>j</sub>,c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>)
 
 其中Pr(P<sub>i</sub>=P<sub>j</sub>)是一个不好求的项，我们试着把它换掉，
 
 先交换顺序（乘法交换律）
 
-> = Pr(v<sub>i</sub>,v<sub>j</sub>|P<sub>i</sub>=P<sub>j</sub>) * Pr(P<sub>i</sub>=P<sub>j</sub>)*Pr(c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>|P<sub>i</sub>=P<sub>j</sub>) / Pr(v<sub>i</sub>,v<sub>j</sub>,c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>)
+> = Pr(v<sub>i</sub>,v<sub>j</sub>|P<sub>i</sub>=P<sub>j</sub>) * Pr(P<sub>i</sub>=P<sub>j</sub>) * Pr(c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>|P<sub>i</sub>=P<sub>j</sub>) / Pr(v<sub>i</sub>,v<sub>j</sub>,c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>)
 
-由条件概率公式P(A|B)*P(B) = P(B|A) * P(A)可得
+由条件概率公式P(A|B)* P(B) = P(B|A) * P(A)可得
 
 > = Pr(P<sub>i</sub>=P<sub>j</sub>|v<sub>i</sub>,v<sub>j</sub>) * Pr(v<sub>i</sub>=v<sub>j</sub>)*Pr(c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>|P<sub>i</sub>=P<sub>j</sub>) / Pr(v<sub>i</sub>,v<sub>j</sub>,c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>)
 
@@ -178,7 +178,7 @@
 
 再次利用时空分布和图像分布的独立性假设，拆解分母
 
->  = Pr(P<sub>i</sub>=P<sub>j</sub>|v<sub>i</sub>,v<sub>j</sub>) * Pr(v<sub>i</sub>=v<sub>j</sub>)*Pr(c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>|P<sub>i</sub>=P<sub>j</sub>) / Pr(v<sub>i</sub>,v<sub>j</sub>) * P(c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>)
+>  = Pr(P<sub>i</sub>=P<sub>j</sub>|v<sub>i</sub>,v<sub>j</sub>) * Pr(v<sub>i</sub>=v<sub>j</sub>)* Pr(c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>|P<sub>i</sub>=P<sub>j</sub>) / Pr(v<sub>i</sub>,v<sub>j</sub>) *  P(c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>)
 
 约掉Pr(v<sub>i</sub>=v<sub>j</sub>)，
 
@@ -219,7 +219,7 @@
 
 > Pr(P<sub>i</sub>=P<sub>j</sub>|v<sub>i</sub>,v<sub>j</sub>)
 = Pr(P<sub>i</sub>=P<sub>j</sub>|S<sub>i</sub>=S<sub>j</sub>) * Pr(S<sub>i</sub>=S<sub>j</sub>|v<sub>i</sub>,v<sub>j</sub>) + Pr(P<sub>i</sub>=P<sub>j</sub>|S<sub>i</sub>≠S<sub>j</sub>) * Pr(S<sub>i</sub>≠S<sub>j</sub>|v<sub>i</sub>,v<sub>j</sub>) 
-= (1-E<sub>p</sub>) * Pr(S<sub>i</sub>=S<sub>j</sub>|v<sub>i</sub>,v<sub>j</sub>) +  E<sub>n</sub>* (1-Pr(S<sub>i</sub>=S<sub>j</sub>|v<sub>i</sub>,v<sub>j</sub>) )
+= (1-E<sub>p</sub>) * Pr(S<sub>i</sub>=S<sub>j</sub>|v<sub>i</sub>,v<sub>j</sub>) +  E<sub>n</sub> * (1-Pr(S<sub>i</sub>=S<sub>j</sub>|v<sub>i</sub>,v<sub>j</sub>) )
 = (1-E<sub>p</sub>-E<sub>n</sub>) * Pr(S<sub>i</sub>=S<sub>j</sub>|v<sub>i</sub>,v<sub>j</sub>) +  E<sub>n</sub> （论文公式8）
 
 推导，Pr(c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>|P<sub>i</sub>=P<sub>j</sub>) 和Pr(c<sub>i</sub>,c<sub>j</sub>,∆<sub>ij</sub>|S<sub>i</sub>=S<sub>j</sub>) 的关系（这个没法像视觉相似度那样直接推导，因为因果关系不同）
