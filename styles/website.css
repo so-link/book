@@ -15,6 +15,11 @@ blockquote {
     border-left: 5px solid #00896C;
     word-break: break-word;
 }
+.markdown-section img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .markdown-section blockquote p {
     margin-botttom: 8px;
 }
