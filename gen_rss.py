@@ -60,7 +60,7 @@ rss2items = []
 for title, path, mtime in posts:
     rss2items.append(PyRSS2Gen.RSSItem(
         title = title,
-        link = '{}/{}'.format(ROOT_URL, md2url(path)),
+        link = '{}{}'.format(ROOT_URL, md2url(path)),
         guid = PyRSS2Gen.Guid(path),
         pubDate = datetime.datetime.fromtimestamp(time.mktime(mtime)) - datetime.timedelta(hours=8),
     ))
