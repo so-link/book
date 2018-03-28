@@ -30,7 +30,7 @@ blockquote {
     margin-botttom: 8px;
 }
 .markdown-section blockquote {
-    /*border-left: 5px solid #00bcd4;*/
+    /*border-left: 5px solid #00b0ff;*/
     border-left: 5px solid #039be5 ;
 }
 .book-summary {
@@ -43,7 +43,7 @@ blockquote {
    color: #563F2E;
 }
 .book-header {
-   /*background: #00bcd4;*/
+   /*background: #00b0ff;*/
    background: #039be5 ;
 }
 .book-header h1 a, .book-header h1 a:hover {
@@ -93,7 +93,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 1.3em 0 1em;
   padding: 0;
   font-weight: bold;
-  color:#00bcd4; 
+  color:#00b0ff; 
   /*color:#039be5 ; */
 }
 
