@@ -12,7 +12,7 @@
 blockquote {
     margin-bottom: 20px;
     background-color: whitesmoke;
-    border-left: 5px solid #00896C;
+    border-left: 5px solid #039be5 ;
     word-break: break-word;
 }
 .markdown-section h6{
@@ -30,21 +30,21 @@ blockquote {
     margin-botttom: 8px;
 }
 .markdown-section blockquote {
-    /*border-left: 5px solid #FB9966;*/
-    border-left: 5px solid #00896C;
+    /*border-left: 5px solid #ab47bc ;*/
+    border-left: 5px solid #039be5 ;
 }
 .book-summary {
    background: whitesmoke;
 }
 .book-summary ul.summary li.active>a{
-   color: #00896C;
+   color: #039be5 ;
 }
 .book-summary ul.summary li a {
    color: #563F2E;
 }
 .book-header {
-   /*background: #FB9966;*/
-   background: #00896C;
+   /*background: #ab47bc ;*/
+   background: #039be5 ;
 }
 .book-header h1 a, .book-header h1 a:hover {
    color: white;
@@ -87,14 +87,14 @@ blockquote {
    /*color: #1B813E;*/
 }
 .markdown-section a {
-   color: #00896C;
+   color: #039be5 ;
 }
 h1, h2, h3, h4, h5, h6 {
   margin: 1.3em 0 1em;
   padding: 0;
   font-weight: bold;
-  color:#FB9966; 
-  /*color:#00896C; */
+  color:#ab47bc ; 
+  /*color:#039be5 ; */
 }
 
 h1 {
