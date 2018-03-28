@@ -1,4 +1,4 @@
-- [Home](README.md)
+- [Home](https://so-link.org)
 - [Team](about.md)
  - [陈伟航](http://cweihang.cn)
 - [Paper list](paper.md)
