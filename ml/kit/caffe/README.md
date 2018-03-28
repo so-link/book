@@ -1,2 +1,0 @@
-# Caffe
-- [mscnn](mscnn.md)
