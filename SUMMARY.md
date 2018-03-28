@@ -1,6 +1,8 @@
 - [Home](https://so-link.org)
 - [Team](about.md)
+ - [吕建明](jmlv.md)
  - [陈伟航](http://cweihang.cn)
+ 
 - [Paper list](paper.md)
 - [Projects](project.md)
 - [最新文章](posts/README.md)
