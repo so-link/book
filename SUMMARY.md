@@ -109,6 +109,7 @@
          - [科学上网](blog/kit/ss/README.md)
     - [thinking-in-program](blog/thinking-in-program/README.md)
         - [怎样打日志](blog/thinking-in-program/log.md)
+- [MOOC](mooc.md)
 - [news](posts/README.md)
 - [投稿指南](publish.md)
 
