@@ -6,7 +6,7 @@
 
 ## 课题组成员
 ### 师资队伍
-- [吕建明](jmlv.html)
+- [吕建明](team/jmlv.md)
 - [冼楚华](http://chuhuaxian.net)
 
 ### 各届学生
