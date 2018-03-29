@@ -8,7 +8,6 @@
 
 <iframe 
     width="100%" 
-    height="100%" 
     src="https://so-link.org"
     frameborder="0" 
     allowfullscreen>
