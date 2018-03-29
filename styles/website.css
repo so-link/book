@@ -6,6 +6,11 @@
     sans-serif;
     color: #000;
 }
+
+.book-header .pull-right {
+    display: none;
+}
+
 .book-header .fa {
    color: white;
 }
