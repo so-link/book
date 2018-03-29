@@ -1,11 +1,11 @@
-# 智能大数据
+## 智能信息融合课题组技术博客
 
-> 华南理工大学智能大数据团队技术博客，涵盖计算机视觉与多模态数据挖掘，各种应用开发相关知识。
+> 华南理工大学智能信息融合课题组技术博客，涵盖计算机视觉、数据挖掘、人工智能、机器学习以及各种应用开发相关知识。
 
 
 ||![](../128.png)||
 | :-:| :-:  | :-:  |
-|[Android](android/README.md) | [Java](java/README.md) | [ML](ml/README.md)|
+| [Machine Learning](ml/README.md)|[Android](android/README.md) | [Java](java/README.md) |
 | [Linux](linux/note.md) | [Kit](kit/README.md) | [Thinking](thinking-in-program/README.md)|
 
 > [投稿指南](publish.md)
