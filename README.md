@@ -4,7 +4,7 @@
 
 本小组的主要研究方向是，多模态、多来源、多视图融合的数据挖掘及机器学习方法研究。
 
-### [成员](about.html) |[论文](paper.html) | [项目](project.html)
+### [成员](team/README.md) |[论文](paper.md) | [项目](project.md)
 
 
 
