@@ -6,11 +6,4 @@
 
 ### [成员](team/README.md) |[论文](paper.md) | [项目](project.md)
 
-<iframe 
-    width="100%" 
-    src="https://so-link.org"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
-
 
