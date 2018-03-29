@@ -5,7 +5,6 @@
  
 - [Paper list](paper.md)
 - [Projects](project.md)
-- [最新文章](posts/README.md)
 - [Blog](blog/README.md)
     - [Android](blog/android/README.md)
      - [activity](blog/android/activity/README.md)
@@ -110,5 +109,6 @@
          - [科学上网](blog/kit/ss/README.md)
     - [thinking-in-program](blog/thinking-in-program/README.md)
         - [怎样打日志](blog/thinking-in-program/log.md)
+- [news](posts/README.md)
 - [投稿指南](publish.md)
 
