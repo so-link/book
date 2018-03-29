@@ -7,22 +7,3 @@
 ### [成员](team/README.md) |[论文](paper.md) | [项目](project.md)
 
 
-<!--PC版-->
-<div id="SOHUCS" sid="请将此处替换为配置SourceID的语句"></div>
-<script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
-<script type="text/javascript">
-window.changyan.api.config({
-appid: 'cyt3ltT2E',
-conf: 'prod_8eece295de7167503957d403176bb6bb'
-});
-</script>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116566793-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-116566793-1');
-</script>
