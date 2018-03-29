@@ -16,3 +16,13 @@ appid: 'cyt3ltT2E',
 conf: 'prod_8eece295de7167503957d403176bb6bb'
 });
 </script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-116566793-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-116566793-1');
+</script>
