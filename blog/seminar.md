@@ -4,4 +4,4 @@
 - 林少川：[文字转图片]() 【本周最佳】
 
 ## 2018-4-8
-- 陈伟航：[Faster-RCNN](ml/papers/detection/faster_rcnn.md)
+- 陈伟航：[Faster-RCNN](ml/papers/detection/faster.md)
