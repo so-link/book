@@ -6,6 +6,7 @@
 - [Paper list](paper.md)
 - [Projects](project.md)
 - [Blog](blog/README.md)
+    - [Seminar](blog/seminar.md)
     - [Android](blog/android/README.md)
      - [activity](blog/android/activity/README.md)
        - [Activity四种启动模式](blog/android/activity/Activity四种启动模式.md)
