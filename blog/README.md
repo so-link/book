@@ -6,7 +6,7 @@
 ||![](../128.png)||
 | :-:| :-:  | :-:  |
 | [Machine Learning](ml/README.md)|[Android](android/README.md) | [Java](java/README.md) |
-| [Linux](linux/note.md) | [Kit](kit/README.md) | [Thinking](thinking-in-program/README.md)|
+| [Linux](linux/note.md) | [Kit](kit/README.md) | [Seminar](seminar.md)|
 
 > [投稿指南](publish.md)
 >
