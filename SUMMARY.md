@@ -5,6 +5,7 @@
  
 - [Paper list](paper.md)
 - [Projects](project.md)
+- [研讨会](seminar.md)   
 - [Blog](blog/README.md)
     - [Seminar](blog/seminar.md)
     - [Android](blog/android/README.md)
