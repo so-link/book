@@ -185,4 +185,4 @@ $$
 
 [2] [Rayleigh Ratios and the Courant-Fischer Theorem.](http://www.cis.upenn.edu/~cis515/cis515-15-spectral-clust-appA.pdf)
 
-[3] [Comparing different clustering algorithms on toy datasets](http://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html#sphx-glr-auto-examples-cluster-plot-cluster-comparison-py)
+[3] [Comparing different clustering algorithms on toy datasets.](http://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html#sphx-glr-auto-examples-cluster-plot-cluster-comparison-py)
