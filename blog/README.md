@@ -5,8 +5,8 @@
 
 ||![](../128.png)||
 | :-:| :-:  | :-:  |
-| [Machine Learning](ml/README.md)|[Android](android/README.md) | [Java](java/README.md) |
-| [Linux](linux/note.md) | [Kit](kit/README.md) | [Seminar](seminar.md)|
+|[Seminar](seminar/README.md)| [Machine Learning](ml/README.md)|[Android](android/README.md) | [Java](java/README.md) |
+| [Linux](linux/note.md) | [Kit](kit/README.md) | 
 
 > [投稿指南](publish.md)
 >
