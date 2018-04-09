@@ -1,0 +1,13 @@
+# Deep Q-Network(DQN)
+这里介绍了deepmind在2013年提出的DQN，用来学习如何玩70年代美国电子游戏Atari。具体论文（[Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) or [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236)）
+![幻灯片22](ppt_png/幻灯片22.PNG)
+![幻灯片23](ppt_png/幻灯片23.PNG)
+![幻灯片24](ppt_png/幻灯片24.PNG)
+![幻灯片25](ppt_png/幻灯片25.PNG)
+![幻灯片26](ppt_png/幻灯片26.PNG)
+![幻灯片27](ppt_png/幻灯片27.PNG)
+![幻灯片28](ppt_png/幻灯片28.PNG)
+![幻灯片29](ppt_png/幻灯片29.PNG)
+![幻灯片30](ppt_png/幻灯片30.PNG)
+![幻灯片31](ppt_png/幻灯片31.PNG)
+![幻灯片32](ppt_png/幻灯片32.PNG)
