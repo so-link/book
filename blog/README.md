@@ -20,6 +20,7 @@
 ### 推荐阅读
 
 #### 机器学习与数据挖掘
+- [智能信息融合课题组介绍](seminar/智能大数据.pptx)
 - [CVPR2018: TFusion完全解读](ml/papers/TFusion.md)
 - [读论文系列](ml/papers/README.md)
 - [谷歌深度学习教程笔记](https://github.com/ahangchen/GDLnotes)
