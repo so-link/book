@@ -1,3 +1,7 @@
+## 课题组每周技术研讨会
+
+[Seminar](seminar/README.md)
+
 ## 技术博客
 
 > 华南理工大学智能信息融合课题组技术博客，涵盖计算机视觉、数据挖掘、人工智能、机器学习以及各种应用开发相关知识。
@@ -5,8 +9,8 @@
 
 ||![](../128.png)||
 | :-:| :-:  | :-:  |
-|[Seminar](seminar/README.md)| [Machine Learning](ml/README.md)|[Android](android/README.md) |
-|[Java](java/README.md) | [Linux](linux/note.md) | [Kit](kit/README.md) | 
+|[Machine Learning](ml/README.md)|[Android](android/README.md) |[Java](java/README.md) |
+| [Linux](linux/note.md) | [Kit](kit/README.md) | |
 
 > [投稿指南](publish.md)
 >
