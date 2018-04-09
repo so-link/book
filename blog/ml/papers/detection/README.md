@@ -2,7 +2,8 @@
 - DPM
 - [RCNN](rcnn.md)
 - [SPPNet](sppnet.md)
-- Faster RCNN
+- [Fast RCNN](fast_rcnn.md)
+- [Faster RCNN](faster.md)
 - YOLO
 - SSD
 - YOLO2
