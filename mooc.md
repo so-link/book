@@ -4,7 +4,7 @@ by [Jianming Lv](jmlv.html)
 
 Some basic data structures and algorithms will be introduced here.
 ![mooc](mooc.png)
-- [Enter](http://scut.xuetangx.com/courses/course-v1:scut+145055+2016_T1/about)
+- [Enter](http://www.xuetangx.com/courses/course-v1:SCUT+145055+sp/about)
 
 ## Data Structure and Machine Learning
 
