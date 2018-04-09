@@ -173,8 +173,16 @@ $$
 
 通过上述问题可以看出，Graph Laplacian矩阵$$L$$的特征向量在区分顶点的类别上起重要作用，可作为顶点的embedding使用。所以可以看到这个矩阵和它的特征向量被广泛用在很多其它图学习的算法中。
 
+## 来自sklearn文档的聚类算法对比图
+
+详细请访问参考资料[3]
+
+![Clustering Algs](clustering-algs.png)
+
 ## 参考资料
 
 [1] [A Tutorial on Spectral Clustering.](https://arxiv.org/abs/0711.0189)
 
 [2] [Rayleigh Ratios and the Courant-Fischer Theorem.](http://www.cis.upenn.edu/~cis515/cis515-15-spectral-clust-appA.pdf)
+
+[3] [Comparing different clustering algorithms on toy datasets](http://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html#sphx-glr-auto-examples-cluster-plot-cluster-comparison-py)
