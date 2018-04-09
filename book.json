@@ -1,4 +1,5 @@
 {
-    "plugins": ["toggle-chapters", "mathjax","mermaid-gb3"]
+    "plugins": ["toggle-chapters", "mathjax","mermaid-gb3"],
+    "title": "智能信息融合实验室"
     
 }
