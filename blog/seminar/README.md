@@ -20,7 +20,7 @@
 ## 早期报告
  - [2016.12.1 陈伟航 tensorflow.pdf](https://so-link.org/seminar/old/2016.12.1 陈伟航 tensorflow.pdf)
  
- - [2016.9.9.陈伟航 re-identification-overview.pdf](https://so-link.org/seminar/old/2016.9.9.陈伟航 re-identification-overview.pdf)
+ - [2016.9.9.陈伟航 re-identification-overview.pdf](https://so-link.org/seminar/old/2016.9.9.陈伟航re-identification-overview.pdf)
  
  2017-9--8-陈伟航-transfer learning to rank.pptx
  
