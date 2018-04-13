@@ -1,7 +1,7 @@
 # Seminar
 
 ## 2018-4-8
-- 陈伟航：[Faster-RCNN](/blog/ml/papers/detection/faster.html)
+- 陈伟航：[Faster-RCNN](/blog/ml/papers/detection/faster.html)【本周最佳】
 - 肖钦哲：[DQN](https://so-link.org/seminar/2018-4-8/DQN.pptx)
 - 梁天保：[p2p](https://so-link.org/seminar/2018-4-8/p2p.pptx)
 
