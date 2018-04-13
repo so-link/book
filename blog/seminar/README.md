@@ -7,7 +7,7 @@
 - 曾纪文：[CNN text pairs rerank](https://git.so-link.org/Lab/book/src/master/blog/seminar/2018_4_8/CNN%20short%20text%20pairs%20rerank.pptx)
 ## 2018-3-30
 - 陈伟航：[Fast RCNN](/blog/ml/papers/detection/fast_rcnn.html)
-- 林少川：[文字转图像](https://so-link.org/seminar/2018-3-30/text2image_StackGAN.pptx) 【本周最佳】
+- 林少川：[文字转图像](https://so-link.org/seminar/2018-3-30/text2image_StackGAN.pdf) 【本周最佳】
 
 ## 2018-3-16
 
@@ -46,7 +46,7 @@
  
  - 2017.9.8-应澄粲-Zillow Prize目前的工作.pptx
  
- - 2017_4_24_陈伟航_matlab_remote_ipc_auto_process.md
+ - 2017_4_24-陈伟航-matlab_remote_ipc_auto_process.md
  
  - 4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf
  
@@ -66,7 +66,7 @@
  
  - 大规模汽车轨迹可视化平台.pptx
  
- - 孙庆辉_推荐系统_2017.9.29.pptx
+ - 孙庆辉-推荐系统_2017.9.29.pptx
  
  - 时空约束下的半监督迁移学习行人重识别.pptx
  
