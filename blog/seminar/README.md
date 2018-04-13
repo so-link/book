@@ -21,15 +21,18 @@
 
 
 ## 早期报告
- - [2016.12.1 陈伟航 tensorflow.pdf](https://so-link.org/seminar/old/2016.12.1陈伟航tensorflow.pdf)
- 
+ - [陈伟航：时空约束下的半监督迁移学习行人重识别/CVPR2018工作总结](../ml/papers/TFusion.md)
+ - [陈伟航-2017-11-24-京东猪脸识别比赛介绍](https://so-link.org/seminar/old/陈伟航-2017-11-24-猪脸识别比赛介绍.pptx)
+ - [陈伟航：CNCC2017深度学习与跨媒体智能](../ml/papers/cncc2017.md)
+ - [陈伟航：Object Counting](../ml/papers/eccv2016_hydra_ccnn.md)
  - [2016.9.9.陈伟航 re-identification-overview.pdf](https://so-link.org/seminar/old/2016.9.9.陈伟航re-identification-overview.pdf)
- 
- - 2017-9--8-陈伟航-transfer learning to rank.pptx
+ - [2017_4_24-陈伟航-matlab RPC](../ml/matlab/ripc_auto.md)
+ - [2016.12.1 陈伟航 tensorflow.pdf](https://so-link.org/seminar/old/2016.12.1陈伟航tensorflow.pdf)
+ - [2017-9-8-陈伟航-sgd](https://so-link.org/seminar/old/2017-9-8-陈伟航-sgd.pptx)
  
  - 2017-9-8-肖钦哲-演化算法.pptx
  
- - 2017-9-8-陈伟航-sgd.pptx
+
 
  - 2017.10.13_Xintong.pdf
  
@@ -49,9 +52,6 @@
  
  - 2017.9.8-应澄粲-Zillow Prize目前的工作.pptx
  
- - 2017_4_24-陈伟航-matlab_remote_ipc_auto_process.md
- 
- - 4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf
  
  - A+Structure+Optimization+Algorithm+of+Neural.pdf
  
@@ -65,17 +65,14 @@
  
  - Xintong-Cycle GAN Report.pptx
  
- - ripc-auto.pdf
- 
  - 大规模汽车轨迹可视化平台.pptx
  
  - 孙庆辉-推荐系统_2017.9.29.pptx
  
- - 时空约束下的半监督迁移学习行人重识别.pptx
+ 
  
  - 期权投资工作进展_肖钦哲.pptx
  
- - 深度迁移学习行人重识别.pptx
  
  - 钟嘉杰 - homelink - 2018寒假工作汇报.pdf
  
@@ -91,6 +88,6 @@
 
  - 钟嘉杰-使用遗传算法寻找正则表达式.pdf
  
- - 陈伟航-2017-11-24-猪脸识别比赛介绍.pptx
+
  
  
