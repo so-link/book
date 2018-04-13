@@ -25,7 +25,7 @@
  - [陈伟航-2017-11-24-京东猪脸识别比赛介绍](https://so-link.org/seminar/old/陈伟航-2017-11-24-猪脸识别比赛介绍.pptx)
  - [陈伟航：CNCC2017深度学习与跨媒体智能](../ml/papers/cncc2017.md)
  - [陈伟航：Object Counting](../ml/papers/eccv2016_hydra_ccnn.md)
- - [2016.9.9.陈伟航 re-identification-overview.pdf](https://so-link.org/seminar/old/2016.9.9.陈伟航re-identification-overview.pdf)
+ - [2016.9.9.陈伟航 re-identification-overview](../ml/reid/reid.md)
  - [2017_4_24-陈伟航-matlab RPC](../ml/matlab/ripc_auto.md)
  - [2016.12.1 陈伟航 tensorflow.pdf](https://so-link.org/seminar/old/2016.12.1陈伟航tensorflow.pdf)
  - [2017-9-8-陈伟航-sgd](https://so-link.org/seminar/old/2017-9-8-陈伟航-sgd.pptx)
