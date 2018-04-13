@@ -9,8 +9,8 @@
 
 ||![](../128.png)||
 | :-:| :-:  | :-:  |
-|[Machine Learning](ml/README.md)|[Android](android/README.md) |[Java](java/README.md) |
-| [Linux](linux/note.md) | [Kit](kit/README.md) | |
+|[机器学习](ml/README.md)|[Android](android/README.md) |[Java](java/README.md) |
+| [Linux](linux/note.md) | [Kit](kit/README.md) |[计算机视觉](ml/README.md) |
 
 > [投稿指南](publish.md)
 >
