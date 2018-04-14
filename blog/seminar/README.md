@@ -74,8 +74,6 @@
  - 期权投资工作进展_肖钦哲.pptx
  
  
- - 钟嘉杰 - homelink - 2018寒假工作汇报.pdf
- 
  - 钟嘉杰-A Unified Probabilistic Framework for Name Disambiguation in Digital Library.pdf
  
  - 钟嘉杰-Convolutional Neural Networks on Graphs.pdf
