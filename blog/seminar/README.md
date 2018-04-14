@@ -1,4 +1,5 @@
-# Seminar
+# 课题组每周技术研讨会
+
 ## 2018-4-13
 - 陈伟航：[YOLO v1-v3](../ml/papers/detection/yolo.md)
 
