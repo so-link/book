@@ -12,7 +12,7 @@
 ## 2018-3-30
 - 陈伟航：[Fast RCNN](/blog/ml/papers/detection/fast_rcnn.html)
 - 林少川：[文字转图像](https://so-link.org/seminar/2018-3-30/text2image_StackGAN.pdf) 【本周最佳】
-- 孙庆辉：[DMVST-Net](https://git.so-link.org/ahangchen/Lab_website/src/master/seminar/2018-4-8/Deep%20Multi-View%20Spatial-Temporal%20Network%20for%20Taxi%20Demand%20Prediction.pptx)
+- 孙庆辉：[DMVST-Net](https://git.so-link.org/seminar/2018-4-8/Deep%20Multi-View%20Spatial-Temporal%20Network%20for%20Taxi%20Demand%20Prediction.pptx)
 
 ## 2018-3-16
 
