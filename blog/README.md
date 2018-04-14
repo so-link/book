@@ -1,6 +1,6 @@
 ## 课题组每周技术研讨会
 
-[Seminar](seminar/README.md)
+[点击进入](seminar/README.md)
 
 ## 技术博客
 
