@@ -8,4 +8,4 @@
 - 如果报告是md文件，则在book/blog/seminar目录下新建md文件。并编辑book/blog/SUMMARY.md文件，在该文件合适的位置插入对报告文件的引用.
 
 
-2.修改book/blog/seminar/README.md文件，在该文件中链接报告文件。
+2.修改book/blog/seminar/README.md文件，在该文件中链接报告文件。链接的地址修改为https://so-link.org/seminar/....
