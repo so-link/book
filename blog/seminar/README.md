@@ -2,6 +2,7 @@
 
 ## 2018-4-13
 - 陈伟航：[YOLO v1-v3](../ml/papers/detection/yolo.md)
+- 邹嘉衡：[Mobilenet](https://git.so-link.org/Lab/book/src/master/ahangchen/Lab_website/seminar/mobilenet.pptx)
 
 ## 2018-4-8
 - 陈伟航：[Faster-RCNN](/blog/ml/papers/detection/faster.html)【本周最佳】
@@ -37,7 +38,7 @@
 
 
  - 2017.10.13_Xintong.pdf
- 
+ 0
  - 2017.11.17-任超-Name Disambiguation in Anonymized Graphs using Network Embedding.pptx
  
  - 2017.4.14 石嘉琪 sift算法.pptx
