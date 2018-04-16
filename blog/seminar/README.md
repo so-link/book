@@ -46,7 +46,7 @@
  
  - [2017.4.19.Multi-scale Outlier Hierachy.ppt](https://so-link.org/seminar/old/2017.4.19.Multi-scale%20Outlier%20Hierachy.ppt)
  
- - [2017.5.15-hhx-ORB.pptx](https://so-link.org/seminar/old/hhx.ORB.pptx)
+ - [2017.5.15-hhx-ORB.pptx](https://so-link.org/seminar/old/hhx-ORB.pptx)
  
  - 2017.5.7 Air Quality Prediction based on Multi-modal Data Fusion Xintong Wang.pptx
  
