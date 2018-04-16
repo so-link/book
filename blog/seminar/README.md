@@ -10,6 +10,7 @@
 - 梁天保：[p2p](https://so-link.org/seminar/2018-4-8/p2p.pptx)
 - 曾纪文：[CNN text pairs rerank](https://so-link.org/seminar/2018-4-8/CNN%20short%20text%20pairs%20rerank.pptx)
 - 孙斌：[位置指纹法](https://so-link.org/seminar/2018-4-8/Fingerprinting%20Matching.pptx)
+
 ## 2018-3-30
 - 陈伟航：[Fast RCNN](/blog/ml/papers/detection/fast_rcnn.html)
 - 林少川：[文字转图像](https://so-link.org/seminar/2018-3-30/text2image_StackGAN.pdf) 【本周最佳】
