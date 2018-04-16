@@ -35,15 +35,9 @@
  - [2017-9-8-陈伟航-sgd](https://so-link.org/seminar/old/2017-9-8-陈伟航-sgd.pptx)
  
  - 2017-9-8-肖钦哲-演化算法.pptx
- 
-
-
  - 2017.10.13_Xintong.pdf
- 0
  - 2017.11.17-任超-Name Disambiguation in Anonymized Graphs using Network Embedding.pptx
- 
  - 2017.4.14 石嘉琪 sift算法.pptx
- 
  - [2017.4.19.Multi-scale Outlier Hierachy.ppt](https://so-link.org/seminar/old/2017.4.19.Multi-scale%20Outlier%20Hierachy.ppt)
  
  - [2017.5.15-hhx-ORB.pptx](https://so-link.org/seminar/old/hhx-ORB.pptx)
