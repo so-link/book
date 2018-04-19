@@ -68,6 +68,8 @@
           - [附录](blog/ml/melon/ch17.md)
     - [强化学习](blog/ml/RL/README.md)
         - [入门](blog/ml/RL/README.md)
+        - [交易](blog/ml/RL/Trading/DDRL.md)
+          - [DDR](blog/ml/RL/Trading/DDRL.md)
     - [图数据挖掘](blog/graph-learning/README.md)
       - [谱聚类](blog/graph-learning/spectral-clustering/spectral-clustering.md)
     - [Java](blog/java/README.md)
