@@ -1,6 +1,7 @@
 # 课题组每周技术研讨会
 ## 2018-4-20
 - 孙庆辉：[LSTM房产数据预测](https://so-link.org/seminar/2018-4-20/LSTM房产预测.pptx)
+- 肖钦哲：[增强学习于交易之DDR](https://www.jianshu.com/p/b740802d2a4e)
 
 ## 2018-4-13
 - 陈伟航：[YOLO v1-v3](../ml/papers/detection/yolo.md)
