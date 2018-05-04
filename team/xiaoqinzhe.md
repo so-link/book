@@ -4,4 +4,4 @@
 ## 照片
 搜一下吴彦祖就行了，华工吴彦祖在此。
 好了好了，鉴于大家对我的照片的热情，以下照骗由美腻的师姐提供
-![](https://github.com/xiaoqinzhe/blog/tree/master/paper/image_recognization/deep_residual_network/images)
+![](https://github.com/xiaoqinzhe/blog/tree/master/paper/image_recognization/deep_residual_network/images/xqz.jpg)
