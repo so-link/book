@@ -3,5 +3,5 @@
 鄙人姓肖(萧)名钦哲，广东普宁人。本科毕业于华工计算机，现为17级华工研究生。喜欢学习，旅行，玩游戏，唱歌等，立志成为AI大神。
 ## 照片
 搜一下吴彦祖就行了，华工吴彦祖在此。
-好了好了，鉴于大家对我的照片的热情，以下照骗由美腻的师姐提供
-![](https://github.com/xiaoqinzhe/blog/tree/master/paper/image_recognization/deep_residual_network/images/xqz.jpg)
+好了好了，鉴于大家对我的热情，以下照骗由美腻的师姐提供
+![photo](./imgs/xqz.jpg)
