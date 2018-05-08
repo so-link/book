@@ -13,6 +13,7 @@
 - 办公地址： 广州市大学城 华南理工大学 B3-518.
 - 实验室： 广州市大学城 华南理工大学 B3-452.
 
+
 ## 代表学术论文
 
 1.	Jianming Lv, Weihang Chen, Qing Li, Can Yang. Unsupervised Cross-dataset person Re-identification by Transfer Learning of Spatial-temporal Patterns, CVPR 2018. (CCF A类会议)
@@ -37,6 +38,18 @@
 20.	Siming Lin, Xueqi Cheng, Jianming Lv. A Visualized Parallel Network Simulator for Modeling Large-Scale Distributed Applications. In 8th IEEE International Conference on Parallel and Distributed Computing, Applications and Technologies （PDCAT）, pp. 339-346, Adelaide Australia,2007.
 21.	Xueqi Cheng，Jianming Lv，Zhaotao Zhou, Full-text information retrieval based on Peer-to-Peer networks, Journal of Computer Research and Development, 2004(12).
 22.	Jianming Lv, Xueqi Cheng. WonGoo: a pure peer-to-peer full text information retrieval system based on semantic overlay networks. Network Computing and Applications, 2004.
+
+## 发明专利
+1.  发明专利申请：一种基于人车轨迹点多分辨率处理的未知道路提取方法. 201810286122.x.吕建明,孙庆辉,应澄粲,杨灿,王鑫同,陈伟航. 
+2.  发明专利申请：一种基于时空约束增量学习的跨数据集行人再识别方法. 201810286137.6.吕建明,陈伟航,王鑫同,杨灿,朱紫嫣. 
+3.  发明专利申请：一种基于多传感器融合的移动屏幕自适应调整方法. 201810039716.0.吕建明，黄伙贤，杨灿.
+4.  实用新型申请：基于文字识别的移动增强现实阅读系统. 201620151093.2. 吕建明,石嘉琪,代涵宣,刘宇阳,徐辰沁,马芮,黄洁晶. 
+6.  发明专利申请. 一种B/S架构的网络视频数字版权管理DRM云服务系统。申请号：201310292229。. 杨灿、孙召飞、吕建明、陈俊伟2014.01
+7.  发明专利申请. 一种轻量级应用开发云服务平台及其资源的访问方法。申请号：201410180915.5。. 杨灿、屈可敏、吕建明2014.01
+8.  发明专利授权. 一种寄生于对等网络的匿名通信方法。申请号：201310328952.1。. 吕建明、杨灿2013.01
+9.  发明专利授权 . P2P环境下的数据传输方法。专利号：200910235678.7。. 王雷、叶靖、吕建明、林思明、李静远、刘悦、程学旗2012.01
+10. 发明专利授权 . P2P中资源下载方法及其系统。专利号：201010034234.X。.  程学旗、叶靖、吕建明、李静远、刘悦、张铁赢、李哲中2012.01
+ 
 
 ## 主要荣誉
 教学奖励：
