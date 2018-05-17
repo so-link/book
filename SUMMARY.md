@@ -46,6 +46,7 @@
           - [读论文系列·SPP-net](blog/ml/papers/detection/sppnet.md)
           - [读论文系列·Fast RCNN](blog/ml/papers/detection/fast_rcnn.md)
           - [读论文系列·Faster RCNN](blog/ml/papers/detection/faster.md)
+          - [读论文系列·SSD](blog/ml/papers/detection/ssd.md)
           - [读论文系列·YOLO](blog/ml/papers/detection/yolo.md)
           - [读论文系列·YOLO2&YOLO3](blog/ml/papers/detection/yolo23.md)
       - [《机器学习》（周志华）读书笔记](blog/ml/zzh_ml_notes.md)
