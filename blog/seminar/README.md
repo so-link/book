@@ -1,6 +1,6 @@
 # 课题组每周技术研讨会
 ## 2018-5-18
-- 陈伟航: [CVPR2018 SSAH](/blog/ml/papers/hash/ssah.md)
+- 陈伟航: [CVPR2018 SSAH](../ml/papers/hash/ssah.md)
 ## 2018-5-4
 - 肖钦哲：[ESN-Autoencoder可视化时间序列](https://www.jianshu.com/p/be24b58e0c01)
 
@@ -13,21 +13,21 @@
 - 邹嘉衡：[Mobilenet](https://so-link.org/seminar/2018-4-13/mobilenet.pptx)
 
 ## 2018-4-8
-- 陈伟航：[Faster-RCNN](/blog/ml/papers/detection/faster.html)【本周最佳】
+- 陈伟航：[Faster-RCNN](../ml/papers/detection/faster.html)【本周最佳】
 - 肖钦哲：[DQN](https://so-link.org/seminar/2018-4-8/DQN.pptx)
 - 梁天保：[p2p](https://so-link.org/seminar/2018-4-8/p2p.pptx)
 - 曾纪文：[CNN text pairs rerank](https://so-link.org/seminar/2018-4-8/CNN%20short%20text%20pairs%20rerank.pptx)
 - 孙斌：[位置指纹法](https://so-link.org/seminar/2018-4-8/Fingerprinting%20Matching.pptx)
 
 ## 2018-3-30
-- 陈伟航：[Fast RCNN](/blog/ml/papers/detection/fast_rcnn.html)
+- 陈伟航：[Fast RCNN](../ml/papers/detection/fast_rcnn.html)
 - 林少川：[文字转图像](https://so-link.org/seminar/2018-3-30/text2image_StackGAN.pdf) 【本周最佳】
 - 孙庆辉：[DMVST-Net](https://so-link.org/seminar/2018-4-8/Deep%20Multi-View%20Spatial-Temporal%20Network%20for%20Taxi%20Demand%20Prediction.pptx)
 - 黄星杰：[Fast Supervised Hashing with Decision Trees for High-Dimensional](https://so-link.org/seminar/2018-3-30/Fast%20Supervised%20Hashing%20with%20Decision%20Trees%20for%20High-Dimensional.pptx)
 
 ## 2018-3-16
 
-- 钟嘉杰：[谱聚类](/blog/graph-learning/spectral-clustering/spectral-clustering.html)
+- 钟嘉杰：[谱聚类](../graph-learning/spectral-clustering/spectral-clustering.html)
 
 ## 2018-3-15
 - 吕建明：[智能信息融合课题组介绍](https://so-link.org/seminar/2018-3-30/智能大数据.pptx)
