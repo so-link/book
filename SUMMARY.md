@@ -49,6 +49,8 @@
           - [读论文系列·SSD](blog/ml/papers/detection/ssd.md)
           - [读论文系列·YOLO](blog/ml/papers/detection/yolo.md)
           - [读论文系列·YOLO2&YOLO3](blog/ml/papers/detection/yolo23.md)
+        - [Hash](blog/ml/papers/hash/ssah.md)
+          - [CVPR2018 SSAH](blog/ml/papers/hash/ssah.md)
       - [《机器学习》（周志华）读书笔记](blog/ml/zzh_ml_notes.md)
         - [西瓜书概念整理](blog/ml/melon/README.md)
           - [绪论](blog/ml/melon/ch01.md)
