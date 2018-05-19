@@ -1,4 +1,6 @@
 # 课题组每周技术研讨会
+## 2018-5-18
+- 陈伟航: [CVPR2018 SSAH](/blog/ml/papers/hash/ssah.md)
 ## 2018-5-4
 - 肖钦哲：[ESN-Autoencoder可视化时间序列](https://www.jianshu.com/p/be24b58e0c01)
 
