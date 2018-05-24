@@ -3,7 +3,7 @@
 - 陈伟航: [CVPR2018 SSAH](../ml/papers/hash/ssah.md) 【本周最佳】
 
 ## 2018-5-11
-- 钟嘉杰 待上传 【本周最佳】
+- 钟嘉杰 待上传 【本周最佳】 
 
 ## 2018-5-4
 - 肖钦哲：[ESN-Autoencoder可视化时间序列](https://www.jianshu.com/p/be24b58e0c01)
