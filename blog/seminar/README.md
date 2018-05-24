@@ -1,17 +1,25 @@
 # 课题组每周技术研讨会
 ## 2018-5-18
-- 陈伟航: [CVPR2018 SSAH](../ml/papers/hash/ssah.md)
+- 陈伟航: [CVPR2018 SSAH](../ml/papers/hash/ssah.md) 【本周最佳】
+
+## 2018-5-11
+- 钟嘉杰 待上传 【本周最佳】
 
 ## 2018-5-4
 - 肖钦哲：[ESN-Autoencoder可视化时间序列](https://www.jianshu.com/p/be24b58e0c01)
+- 陈伟航: SSD 待上传
+- 邹嘉衡: THiNet 待上传 【本周最佳】
 
 ## 2018-4-20
-- 孙庆辉：[LSTM房产数据预测](https://so-link.org/seminar/2018-4-20/LSTM房产预测.pptx)
+- 孙庆辉：[LSTM房产数据预测](https://so-link.org/seminar/2018-4-20/LSTM房产预测.pptx) 【本周最佳】
 - 肖钦哲：[增强学习于交易之DDR](https://www.jianshu.com/p/b740802d2a4e)
+- 冯嘉昌：动物脸识别 待上传
+- 钟泽耿：人脸检测 待上传 
 
 ## 2018-4-13
-- 陈伟航：[YOLO v1-v3](../ml/papers/detection/yolo.md)
-- 邹嘉衡：[Mobilenet](https://so-link.org/seminar/2018-4-13/mobilenet.pptx)
+- 陈伟航：[YOLO v1-v3](../ml/papers/detection/yolo.md) 【本周最佳】
+- 邹嘉衡：[Mobilenet](https://so-link.org/seminar/2018-4-13/mobilenet.pptx)【本周最佳】
+- 钟嘉杰：word embedding SGS  待上传 
 
 ## 2018-4-8
 - 陈伟航：[Faster-RCNN](../ml/papers/detection/faster.html)【本周最佳】
