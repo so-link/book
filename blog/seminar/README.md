@@ -1,4 +1,7 @@
 # 课题组每周技术研讨会
+## 2018-5-25
+- 肖钦哲：[TreNet: Trend Prediction](https://www.jianshu.com/p/c824c7f72542)
+
 ## 2018-5-18
 - 陈伟航: [CVPR2018 SSAH](../ml/papers/hash/ssah.md) 【本周最佳】
 
