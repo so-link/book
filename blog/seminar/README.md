@@ -1,7 +1,7 @@
 # 课题组每周技术研讨会
 ## 2018-5-25
 - 肖钦哲：[TreNet: Trend Prediction](https://www.jianshu.com/p/c824c7f72542)
-- 黄星杰：[cvpr2017 DCMH](https://git.so-link.org/Lab/book/src/master/ahangchen/Lab_website/seminar/DCMH.pptx)
+- 黄星杰：[cvpr2017 DCMH](https://so-link.org/seminar/2018-05-26/DCMH.pptx)
 ## 2018-5-18
 - 陈伟航: [CVPR2018 SSAH](../ml/papers/hash/ssah.md) 【本周最佳】
 
