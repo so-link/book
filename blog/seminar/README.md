@@ -6,7 +6,7 @@
 - 陈伟航: [CVPR2018 SSAH](../ml/papers/hash/ssah.md) 【本周最佳】
 
 ## 2018-5-11
-- 钟嘉杰 [Personal Entity Recommendation](./2018_05_11/Personal Entity Recommendation.pdf)
+- 钟嘉杰 [Personal Entity Recommendation](https://so-link.org/seminar/2018-05-11/Personal Entity Recommendation.pdf)
 
 ## 2018-5-4
 - 肖钦哲：[ESN-Autoencoder可视化时间序列](https://www.jianshu.com/p/be24b58e0c01)
