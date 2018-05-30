@@ -6,7 +6,7 @@
 - 陈伟航: [CVPR2018 SSAH](../ml/papers/hash/ssah.md) 【本周最佳】
 
 ## 2018-5-11
-- 钟嘉杰 待上传 【本周最佳】 
+- 钟嘉杰 [Personal Entity Recommendation](Personal Entity Recommendation.pdf)
 
 ## 2018-5-4
 - 肖钦哲：[ESN-Autoencoder可视化时间序列](https://www.jianshu.com/p/be24b58e0c01)
@@ -22,7 +22,7 @@
 ## 2018-4-13
 - 陈伟航：[YOLO v1-v3](../ml/papers/detection/yolo.md) 【本周最佳】
 - 邹嘉衡：[Mobilenet](https://so-link.org/seminar/2018-4-13/mobilenet.pptx)【本周最佳】
-- 钟嘉杰：word embedding SGS  待上传 
+- 钟嘉杰：word embedding SGNS  待上传 
 
 ## 2018-4-8
 - 陈伟航：[Faster-RCNN](../ml/papers/detection/faster.html)【本周最佳】
