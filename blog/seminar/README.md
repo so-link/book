@@ -1,6 +1,7 @@
 # 课题组每周技术研讨会
 ## 2018-6-8
 - 吕建明 [SPGAN](https://so-link.org/seminar/2018-06/Image-Image%20Domain%20Adaptation%20with%20Preserved%20Self-Similarity%20and%20Domain-Dissimilarity%20for%20Person%20Re-identification.pdf)
+
 ## 2018-6-1
 
 ## 2018-5-25
