@@ -1,6 +1,6 @@
 # 课题组每周技术研讨会
 ## 2018-6-15
-- 林少川 [DGRM](https://so-link.org/seminar/2018-06-15/lsc_report_Deep_Group-shuffling_Random_Walk_for_Person_Re-identification.pdf)
+- 林少川 [CVPR2018 DGRM](https://so-link.org/seminar/2018-06-15/lsc_report_Deep_Group-shuffling_Random_Walk_for_Person_Re-identification.pdf)
 ## 2018-6-8
 - 吕建明 [SPGAN](https://so-link.org/seminar/2018-06/Image-Image%20Domain%20Adaptation%20with%20Preserved%20Self-Similarity%20and%20Domain-Dissimilarity%20for%20Person%20Re-identification.pdf)
 
