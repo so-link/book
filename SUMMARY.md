@@ -2,7 +2,7 @@
 - [课题组成员](team/README.md)
  - [吕建明](team/jmlv.md)
  - [陈伟航](http://cweihang.cn)
- - [王鑫同](https://sites.google.com/site/xintonghome/)
+ - [王鑫同](https://ethanscuter.github.io/)
  - [肖钦哲](team/xiaoqinzhe.md)
  
 - [论文](paper.md)
