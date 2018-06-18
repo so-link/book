@@ -12,7 +12,7 @@
 ### 各届学生
 #### 研究生
 - 2015级：[黄伙贤](http://woniuzai.github.io)
-- 2016级：[陈伟航](http://cweihang.cn)，[王鑫同](https://sites.google.com/site/xintonghome/)
+- 2016级：[陈伟航](http://cweihang.cn)，[王鑫同](https://ethanscuter.github.io/)
 - 2017级：钟嘉杰，[肖钦哲](xiaoqinzhe.md)，孙庆辉
 
 #### 本科生
