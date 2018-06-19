@@ -16,5 +16,6 @@
 - 2017级：钟嘉杰，[肖钦哲](xiaoqinzhe.md)，孙庆辉
 
 #### 本科生
-- 2012级：黄锋涛，杨俊杰，颜启发，吴天锋，李烁，[曾纪文](https://segmentfault.com/u/given)，张晓灿，钟泽耿
+- 2012级：黄锋涛，杨俊杰，颜启发，吴天
+- 2014级：李烁，[曾纪文](https://segmentfault.com/u/given)，张晓灿，钟泽耿
 
