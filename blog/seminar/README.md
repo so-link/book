@@ -1,4 +1,7 @@
 # 课题组每周技术研讨会
+## 2018-07-06
+- 冯嘉昌 [CVPR2018:Taskonomy](https://so-link.org/seminar/2018-07-06/Taskonomy.pptx)
+
 ## 2018-6-15
 - 林少川 [CVPR2018 DGRM](https://so-link.org/seminar/2018-06-15/lsc_report_Deep_Group-shuffling_Random_Walk_for_Person_Re-identification.pdf)
 
@@ -31,7 +34,7 @@
 ## 2018-4-20
 - 孙庆辉：[LSTM房产数据预测](https://so-link.org/seminar/2018-4-20/LSTM房产预测.pptx) 【本周最佳】
 - 肖钦哲：[增强学习于交易之DDR](https://www.jianshu.com/p/b740802d2a4e)
-- 冯嘉昌：动物脸识别 待上传
+- 冯嘉昌：[动物脸识别](https://so-link.org/seminar/2018-4-20/动物脸部识别.pptx)
 - 钟泽耿：人脸检测 待上传 
 
 ## 2018-4-13
