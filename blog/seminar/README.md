@@ -3,7 +3,7 @@
 - 冯嘉昌 [CVPR2018:Taskonomy](https://so-link.org/seminar/2018-07-06/Taskonomy.pptx)
 
 ## 2018-6-15
-- 林少川 [CVPR2018 DGRM](https://so-link.org/seminar/2018-06-15/lsc_report_Deep_Group-shuffling_Random_Walk_for_Person_Re-identification.pdf)
+- 林少川 [CVPR2018 DGRM](https://so-link.org/seminar/2018-06-15/lsc_report_Deep_Group-shuffling_Random_Walk_for_Person_Re-identification.pdf)([更多相关文章](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yantao_Shen_Person_Re-identification_with_ECCV_2018_paper.pdf))
 
 - 钟嘉杰 [HARP](https://so-link.org/seminar/2018-06/harp.pdf)
 
