@@ -5,7 +5,7 @@
 
 ## Full List
 
-1.	Jianming Lv, Weihang Chen, Qing Li, Can Yang. Unsupervised Cross-dataset person Re-identification by Transfer Learning of Spatial-temporal Patterns, CVPR 2018. (CCF A类会议)
+1.	Jianming Lv, Weihang Chen, Qing Li, Can Yang. Unsupervised Cross-dataset person Re-identification by Transfer Learning of Spatial-temporal Patterns, CVPR 2018. (CCF A类会议)[\[paper\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.pdf) [\[code\]](https://github.com/ahangchen/TFusion)
 2.	Min Cheng, Qing Li, Jianming Lv, Wenyin Liu, Jianpin Wang.Multi-Scale LSTM Model for BGP Anomaly Classification. IEEE Trans. Services Computing,2018. (SCI 期刊)
 3.	Jianming Lv, Qing Li, Xingtong Wang. Modeling Trajectory as Image: Convolutional Neural Networks for Multi-scale Taxi Trajectory Prediction. IEEE BigComp 2018. 
 4.	Jianming Lv, Xintong Wang. TREST:A Hadoop based Trajectories Retrieval System. IEEE ICDSC 2016.  
