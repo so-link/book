@@ -15,7 +15,7 @@
 
 
 ## 代表学术论文
-1.	Jianming Lv, Weihang Chen, Qing Li, Can Yang. Unsupervised Cross-dataset person Re-identification by Transfer Learning of Spatial-temporal Patterns, CVPR 2018. (CCF A类会议)
+1.	Jianming Lv, Weihang Chen, Qing Li, Can Yang. Unsupervised Cross-dataset person Re-identification by Transfer Learning of Spatial-temporal Patterns, CVPR 2018. (CCF A类会议) [code](https://github.com/ahangchen/TFusion)
 2.	Min Cheng, Qing Li, Jianming Lv, Wenyin Liu, Jianpin Wang. Multi-Scale LSTM Model for BGP Anomaly Classification. IEEE Trans. Services Computing,2018. (SCI 期刊 一区)
 3.	Jianming Lv, Jiajie Zhong, Weihang Chen, Qinzhe Xiao, Zhenguo Yang and Qing Li. Homepage Augmentation by Predicting Links in Heterogenous Networks. CIKM 2018. (CCF B类会议)
 4.	Zehang Lin, Zhenguo Yang, Runwei Situ, Feitao Huang, Jianming Lv, Qing Li and Wenyin Liu. Improving Maximum Classifier Discrepancy by Considering Joint Distribution for Domain Adaptation. WISE 2018. (CCF C 类会议)
