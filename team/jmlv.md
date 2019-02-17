@@ -15,40 +15,41 @@
 
 
 ## 代表学术论文
-1.Jianming Lv, Weihang Chen, Qing Li, Can Yang. Unsupervised Cross-dataset person Re-identification by Transfer Learning of Spatial-temporal Patterns, CVPR 2018. (CCF A类会议) [\[paper\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.pdf) [\[code\]](https://github.com/ahangchen/TFusion) 
-2.Zhenguo Yang, Qing Li, Liu Wenyin, Jianming Lv. Shared Multi-view Data Representation for Multi-domain Event Detection. IEEE Transactions on Pattern Analysis and Machine Intelligence. 2019. DOI: 10.1109/TPAMI.2019.2893953. (SCI 期刊 一区) [\[paper\]](https://ieeexplore.ieee.org/document/8618422) 
-3.Min Cheng, Qing Li, Jianming Lv, Wenyin Liu, Jianpin Wang. Multi-Scale LSTM Model for BGP Anomaly Classification. IEEE Trans. Services Computing,2018. (SCI 期刊 一区) [\[paper\]](https://ieeexplore.ieee.org/document/8334596) 
-4.Jianming Lv, Jiajie Zhong, Weihang Chen, Qinzhe Xiao, Zhenguo Yang and Qing Li. Homepage Augmentation by Predicting Links in Heterogenous Networks. CIKM 2018. (CCF B类会议)
-5.Zehang Lin, Zhenguo Yang, Runwei Situ, Feitao Huang, Jianming Lv, Qing Li and Wenyin Liu. Improving Maximum Classifier Discrepancy by Considering Joint Distribution for Domain Adaptation. WISE 2018. (CCF C 类会议)
-6.Runwei Situ, Zhenguo Yang, Jianming Lv, Qing Li, Wenyin Liu. Cross-Modal Event Retrieval: A Dataset and a Baseline using Deep Semantic Learning. PCM 2018. (CCF C 类会议)
-7.Jianming Lv, Xintong Wang. Cross-dataset Person Re-Identification Using Similarity Preserved Generative Adversarial Networks. International Conference on Knowledge Science, Engineering and Management 2018. (CCF C 类会议)
-8.Jianming Lv, Qing Li, Xingtong Wang. T-CONV: A Convolutional Neural Network For Multi-scale Taxi Trajectory Prediction. IEEE BigComp 2018.
-9.Haitao Yang, Jianming Lv, Fei Xu, Xintong Wang, Yilin Huang, Lanting Xia, Xuewu Zhu. Regression Approach for Optimal Purchase of Hosts Cluster in Fixed Fund for Hadoop Big Data Platform. 19th  International Conference on Smart City, Transportation and Buildings (ICSCTB'17), 2017. (Best Presentation Award).
-10.Jianming Lv, Xintong Wang. TREST:A Hadoop based Trajectories Retrieval System. IEEE ICDSC 2016.
-11.Min Cheng, Qian Xu, Jianming Lv, Wenyin Liu, Qing Li, Jianping Wang. MS-LSTM: a Multi-Scale LSTM Model for BGP Anomaly Detection. IEEE ICNP 2016. (CCF B类会议)
-12.刘宇阳,吕建明,代涵宣,徐辰沁,马芮,石嘉琪,黄洁晶. 基于文字处理的移动增强现实系统研究. CCIR 2016.
-13.Jianming Lv, Haibiao Lin, Zhiwen Yu, Yinhong Chen, and Can Yang, Identify and Trace Criminal Suspects in the Crowd Aided by Fast Trajectories Retrieval, In 19th International Conference on Database Systems for Advanced Applications (DASFAA), 2014. (CCF B类会议)
-14.Jianming Lv, Tieying Zhang, Zhenhua Li, Xueqi Cheng. PACOM: Parasitic Anonymous Communication in the BitTorrent Network. Computer Networks, Vol. 74 Part A, pp.13–33. 2014. (SCI 期刊 三区)
-15.Jianming Lv, Zhiwen Yu, Tieying Zhang, Towards An Immunity Based Distributed Algorithm to Detect Harmful Files Shared in P2P Networks, Accepted by Peer-to-Peer Networking and Applications. Peer-to-Peer Networking and Applications.8(1), pp49-62, Jan. 2015. (SCI 期刊 四区)
-16.Jianming Lv, Chaoyun Zhu, Shaohua Tang, Can Yang. Deepflow: Hiding Anonymous Communication Traffic in P2P Streaming Networks. Wuhan University Journal of Natural Sciences. Vol. 19(5). 2014.
-17.Haibiao Lin, Jianming Lv, Can Yang, Miaoyi Deng, Kaitao Wang. GPS Trajectory Mining : a Survey, Journal of Computational Information Systems, 10(16), 2014.
-18.Jianming Lv, Jianwen Chen, Can Yang. PACS: Parasitic Anonymous Communication in Peer-to-Peer streaming Network. Journal of Computational Information Systems. Vol. 10 (3) 2014. 　
-19.Jianming Lv, Can Yang, Kaidong Liang. GRACE: A Gradient Distance Based Peer-to-Peer Network Supporting Efficient Content-based Retrieval.　International Conf. on Soft Computing Techniques and Engineering Application, 2013.
-20.Tieying Zhang, Xueqi Cheng, Jianming Lv, Zhenhua Li and Wiesong Shi, "Providing Hierarchical Lookup Service for P2P-VoD Systems", in ACM Transactions on Multimedia Computing, Communications and Applications (TOMCCAP), Vol. 8, Issue 1, No.15, Feb. 2012. (SCI 期刊 三区)
-21.Jianming Lv, Zhiwen. Yu, Tieying. Zhang. iDetect: An immunity based algorithm to detect harmful content shared in Peer-to-Peer networks. In International Conference on Machine Learning and Cybernetics (ICMLC), vol.2, pp.926-931, Guilin China, 2011.
-22.黄云峰, 冯佳和, 吕建明,等. 渔业环境自动监控预警系统建设[J]. 安徽农业科学, 2011, 39(35):22155-22157.
-23.Tieying Zhang, Jianming Lv, Xueqi Cheng. Mediacoop: Hierarchical Lookup for P2P-VoD Services. In 38th International Conference on Parallel Processing (ICPP), pp. 486-493, Vienna Austria, 2009. (CCF B类会议)
-24.Siming Lin, Xueqi Cheng, Jianming Lv. Micro-synchronization in conservation parallel network simulation. In 22nd ACM/IEEE/SCS Workshop on Principles of Advanced and Distributed Simulation（PADS）, pp.195-202, Roma Italy, 2008.
-25.Siming Lin, Xueqi Cheng, Jianming Lv. State causality analysis of conservative parallel network simulation. In 40th Annual Simulation Symposium (ASS), pp.251-260, Ottawa Canada, 2008.
-26.江庆，钟尚平，吕建明. P2P网络下一种基于DHT的视频点播方案. 计算机技术与发展. 2008年第6期. 
-27.Jianming Lv, Xueqi Cheng. CTO: Concept Tree Based Semantic Overlay for Pure Peer-to-Peer Information Retrieval. In 16th ACM Conference on Information and Knowledge Management (CIKM ), pp.931-934, Lisbon Portugal, 2007. (CCF B类会议)
-28.Jianming Lv, Xueqi Cheng, Qing Jiang and etc. LiveBT: Providing Video-on-demand Streaming Service on BitTorrent Peer-to-Peer Systems. In 8th IEEE International Conference on Parallel and Distributed Computing, Applications and Technologies （PDCAT）, pp.501-508, Adelaide Australia, 2007.
-29.Siming Lin, Xueqi Cheng, Jianming Lv. A Visualized Parallel Network Simulator for Modeling Large-Scale Distributed Applications. In 8th IEEE International Conference on Parallel and Distributed Computing, Applications and Technologies （PDCAT）, pp. 339-346, Adelaide Australia,2007.
-30.丁林，程学旗，刘悦，吕建明. 基于Bittorrent网络的快速搜索策略. 计算机工程，2007年03期.
-31.吕建明, 刘悦, 丁林,等. P2P 与信息检索[J]. 信息技术快报, 2005.
-32.Xueqi Cheng，Jianming Lv，Zhaotao Zhou, Full-text information retrieval based on Peer-to-Peer networks, Journal of Computer Research and Development, 2004(12). 
-33.Jianming Lv, Xueqi Cheng. WonGoo: a pure peer-to-peer full text information retrieval system based on semantic overlay networks. Network Computing and Applications, 2004.
-34.程学旗, 余智华, 陆天波,吕建明. P2P技术与信息安全[J]. 信息技术快报, 2004.
+1.	Jianming Lv, Weihang Chen, Qing Li, Can Yang. Unsupervised Cross-dataset person Re-identification by Transfer Learning of Spatial-temporal Patterns, CVPR 2018. (CCF A类会议) [\[paper\]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.pdf) [\[code\]](https://github.com/ahangchen/TFusion) 
+2.	Zhenguo Yang, Qing Li, Liu Wenyin, Jianming Lv. Shared Multi-view Data Representation for Multi-domain Event Detection. IEEE Trans. on Pattern Analysis and Machine Intelligence. 2019. DOI: 10.1109/TPAMI.2019.2893953. (SCI 期刊 一区) [\[paper\]](https://ieeexplore.ieee.org/document/8618422) 
+3.	Min Cheng, Qing Li, Jianming Lv, Wenyin Liu, Jianpin Wang. Multi-Scale LSTM Model for BGP Anomaly Classification. IEEE Trans. Services Computing,2018. (SCI 期刊 一区) [\[paper\]](https://ieeexplore.ieee.org/document/8334596) 
+4.	Jianming Lv, Jiajie Zhong, Weihang Chen, Qinzhe Xiao, Zhenguo Yang and Qing Li. Homepage Augmentation by Predicting Links in Heterogenous Networks. CIKM 2018. (CCF B类会议)
+5.	Zehang Lin, Zhenguo Yang, Runwei Situ, Feitao Huang, Jianming Lv, Qing Li and Wenyin Liu. Improving Maximum Classifier Discrepancy by Considering Joint Distribution for Domain Adaptation. WISE 2018. (CCF C 类会议)
+6.	Runwei Situ, Zhenguo Yang, Jianming Lv, Qing Li, Wenyin Liu. Cross-Modal Event Retrieval: A Dataset and a Baseline using Deep Semantic Learning. PCM 2018. (CCF C 类会议)
+7.	Jianming Lv, Xintong Wang. Cross-dataset Person Re-Identification Using Similarity Preserved Generative Adversarial Networks. International Conference on Knowledge Science, Engineering and Management 2018. (CCF C 类会议)
+8.	Jianming Lv, Qing Li, Xingtong Wang. T-CONV: A Convolutional Neural Network For Multi-scale Taxi Trajectory Prediction. IEEE BigComp 2018.
+9.	Haitao Yang, Jianming Lv, Fei Xu, Xintong Wang, Yilin Huang, Lanting Xia, Xuewu Zhu. Regression Approach for Optimal Purchase of Hosts Cluster in Fixed Fund for Hadoop Big Data Platform. 19th  International Conference on Smart City, Transportation and Buildings (ICSCTB'17), 2017. (Best Presentation Award).
+10.	Jianming Lv, Xintong Wang. TREST:A Hadoop based Trajectories Retrieval System. IEEE ICDSC 2016.
+11.	Min Cheng, Qian Xu, Jianming Lv, Wenyin Liu, Qing Li, Jianping Wang. MS-LSTM: a Multi-Scale LSTM Model for BGP Anomaly Detection. IEEE ICNP 2016. (CCF B类会议)
+12.	刘宇阳,吕建明,代涵宣,徐辰沁,马芮,石嘉琪,黄洁晶. 基于文字处理的移动增强现实系统研究. CCIR 2016.
+13.	Jianming Lv, Haibiao Lin, Zhiwen Yu, Yinhong Chen, and Can Yang, Identify and Trace Criminal Suspects in the Crowd Aided by Fast Trajectories Retrieval, In 19th International Conference on Database Systems for Advanced Applications (DASFAA), 2014. (CCF B类会议)
+14.	Jianming Lv, Tieying Zhang, Zhenhua Li, Xueqi Cheng. PACOM: Parasitic Anonymous Communication in the BitTorrent Network. Computer Networks, Vol. 74 Part A, pp.13–33. 2014. (SCI 期刊 三区)
+15.	Jianming Lv, Zhiwen Yu, Tieying Zhang, Towards An Immunity Based Distributed Algorithm to Detect Harmful Files Shared in P2P Networks, Accepted by Peer-to-Peer Networking and Applications. Peer-to-Peer Networking and Applications.8(1), pp49-62, Jan. 2015. (SCI 期刊 四区)
+16.	Jianming Lv, Chaoyun Zhu, Shaohua Tang, Can Yang. Deepflow: Hiding Anonymous Communication Traffic in P2P Streaming Networks. Wuhan University Journal of Natural Sciences. Vol. 19(5). 2014.
+17.	Haibiao Lin, Jianming Lv, Can Yang, Miaoyi Deng, Kaitao Wang. GPS Trajectory Mining : a Survey, Journal of Computational Information Systems, 10(16), 2014.
+18.	Jianming Lv, Jianwen Chen, Can Yang. PACS: Parasitic Anonymous Communication in Peer-to-Peer streaming Network. Journal of Computational Information Systems. Vol. 10 (3) 2014.  
+19.	Jianming Lv, Can Yang, Kaidong Liang. GRACE: A Gradient Distance Based Peer-to-Peer Network Supporting Efficient Content-based Retrieval. International Conf. on Soft Computing Techniques and Engineering Application, 2013.
+20.	Tieying Zhang, Xueqi Cheng, Jianming Lv, Zhenhua Li and Wiesong Shi, "Providing Hierarchical Lookup Service for P2P-VoD Systems", in ACM Transactions on Multimedia Computing, Communications and Applications (TOMCCAP), Vol. 8, Issue 1, No.15, Feb. 2012. (SCI 期刊 三区)
+21.	Jianming Lv, Zhiwen. Yu, Tieying. Zhang. iDetect: An immunity based algorithm to detect harmful content shared in Peer-to-Peer networks. In International Conference on Machine Learning and Cybernetics (ICMLC), vol.2, pp.926-931, Guilin China, 2011.
+22.	黄云峰, 冯佳和, 吕建明,等. 渔业环境自动监控预警系统建设[J]. 安徽农业科学, 2011, 39(35):22155-22157.
+23.	Tieying Zhang, Jianming Lv, Xueqi Cheng. Mediacoop: Hierarchical Lookup for P2P-VoD Services. In 38th International Conference on Parallel Processing (ICPP), pp. 486-493, Vienna Austria, 2009. (CCF B类会议)
+24.	Siming Lin, Xueqi Cheng, Jianming Lv. Micro-synchronization in conservation parallel network simulation. In 22nd ACM/IEEE/SCS Workshop on Principles of Advanced and Distributed Simulation（PADS）, pp.195-202, Roma Italy, 2008.
+25.	Siming Lin, Xueqi Cheng, Jianming Lv. State causality analysis of conservative parallel network simulation. In 40th Annual Simulation Symposium (ASS), pp.251-260, Ottawa Canada, 2008.
+26.	江庆，钟尚平，吕建明. P2P网络下一种基于DHT的视频点播方案. 计算机技术与发展. 2008年第6期. 
+27.	Jianming Lv, Xueqi Cheng. CTO: Concept Tree Based Semantic Overlay for Pure Peer-to-Peer Information Retrieval. In 16th ACM Conference on Information and Knowledge Management (CIKM ), pp.931-934, Lisbon Portugal, 2007. (CCF B类会议)
+28.	Jianming Lv, Xueqi Cheng, Qing Jiang and etc. LiveBT: Providing Video-on-demand Streaming Service on BitTorrent Peer-to-Peer Systems. In 8th IEEE International Conference on Parallel and Distributed Computing, Applications and Technologies （PDCAT）, pp.501-508, Adelaide Australia, 2007.
+29.	Siming Lin, Xueqi Cheng, Jianming Lv. A Visualized Parallel Network Simulator for Modeling Large-Scale Distributed Applications. In 8th IEEE International Conference on Parallel and Distributed Computing, Applications and Technologies （PDCAT）, pp. 339-346, Adelaide Australia,2007.
+30.	丁林，程学旗，刘悦，吕建明. 基于Bittorrent网络的快速搜索策略. 计算机工程，2007年03期.
+31.	吕建明, 刘悦, 丁林,等. P2P 与信息检索[J]. 信息技术快报, 2005.
+32.	Xueqi Cheng，Jianming Lv，Zhaotao Zhou, Full-text information retrieval based on Peer-to-Peer networks, Journal of Computer Research and Development, 2004(12). 
+33.	Jianming Lv, Xueqi Cheng. WonGoo: a pure peer-to-peer full text information retrieval system based on semantic overlay networks. Network Computing and Applications, 2004.
+34.	程学旗, 余智华, 陆天波,吕建明. P2P技术与信息安全[J]. 信息技术快报, 2004.
+ 
 
 
 ## 教学论文
