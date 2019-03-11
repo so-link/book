@@ -32,7 +32,7 @@
 
 **最小割问题**：对于一个图$$G=(V, E)$$，通过去掉这个图的一些连边，使这个图分成$$k$$个不连通的分量，并且去掉的连边的权值和最小。最小割问题可以定义为最小化如下目标函数
 
-###### $$\min_{A_1, A_2, ..., A_k} \mathrm{cut}(A_1 , A_2 , ... , A_k)=\min_{A_1, A_2, ..., A_k} \frac{1}{2} \sum_{i=1}^{k} \mathrm{W}(A_i, \bar{A}_i)$$
+$$\min_{A_1, A_2, ..., A_k} \mathrm{cut}(A_1 , A_2 , ... , A_k)=\min_{A_1, A_2, ..., A_k} \frac{1}{2} \sum_{i=1}^{k} \mathrm{W}(A_i, \bar{A}_i)$$
 
 其中
 
@@ -46,11 +46,11 @@
 
 **RatioCut**：使用每个分量的顶点数量作为这个分量的大小，目标函数如下：
 
-###### $$\min_{A_1, A_2, ..., A_k} \mathrm{RatioCut}(A_1, ..., A_k)=\min_{A_1, A_2, ..., A_k} \frac{1}{2}\sum_{i=1}^{k}\frac{\mathrm{W}(A_i, \bar{A_i})}{|A_i|}$$
+$$\min_{A_1, A_2, ..., A_k} \mathrm{RatioCut}(A_1, ..., A_k)=\min_{A_1, A_2, ..., A_k} \frac{1}{2}\sum_{i=1}^{k}\frac{\mathrm{W}(A_i, \bar{A_i})}{|A_i|}$$
 
 **Ncut**：使用每个分量的容量作为这个分量的大小，目标函数如下：
 
-###### $$\min_{A_1, A_2, ..., A_k} \mathrm{Ncut}(A_1, ..., A_k)=\min_{A_1, A_2, ..., A_k} \frac{1}{2}\sum_{i=1}^{k}\frac{\mathrm{W}(A_i, \bar{A_i})}{\mathrm{vol}(A_i)}$$
+$$\min_{A_1, A_2, ..., A_k} \mathrm{Ncut}(A_1, ..., A_k)=\min_{A_1, A_2, ..., A_k} \frac{1}{2}\sum_{i=1}^{k}\frac{\mathrm{W}(A_i, \bar{A_i})}{\mathrm{vol}(A_i)}$$
 
 很遗憾，上面两个问题是NP-Hard的。我们会尝试近似求解上面两个问题
 
@@ -60,7 +60,7 @@
 
 未归一化的Graph Laplacian矩阵$$L$$定义如下
 
-###### $$L=D-W$$
+$$L=D-W$$
 
 其中$$D=diag(\{d_1, d_2, ... , d_n\})$$为图的度数矩阵，$$W$$为图的权值邻接矩阵.
 
@@ -68,7 +68,7 @@ Graph Laplacian矩阵具有如下性质
 
 - 对于任意向量$$f \in \mathbb{R}^n$$
 
-###### $$f'Lf=\frac{1}{2}\sum_{i,j=1}^{n}w_{ij}(f_i-f_j)^2$$
+$$f'Lf=\frac{1}{2}\sum_{i,j=1}^{n}w_{ij}(f_i-f_j)^2$$
 
 - $$L$$是一个对称矩阵，并且是半正定的。
 - $$L$$最小的特征值为$$0$$，对应的特征向量为$$\vec{1}$$。
@@ -84,11 +84,11 @@ Graph Laplacian矩阵具有如下性质
 
 问题的目标函数如下：
 
-###### $$\min_{A \subset V} \mathrm{RatioCut}(A, \bar{A})$$
+$$\min_{A \subset V} \mathrm{RatioCut}(A, \bar{A})$$
 
 对于一个子集$$A \subset V$$，定义向量$$f=(f_1, ..., f_n)' \in \mathbb{R}^n$$，这个向量的元素取值如下：
 
-###### $$ f_i=\left\{
+$$ f_i=\left\{
 \begin{aligned}
 \sqrt{|\bar{A}|/|A|},\quad & \mathrm{if} \quad  v_i \in A \\
 -\sqrt{|A|/|\bar{A}|}, \quad & \mathrm{if} \quad  v_i \in \bar{A} 
@@ -98,7 +98,7 @@ $$
 
 可以证明（推导见参考资料[1]）
 
-###### $$f'Lf=|V| \cdot \mathrm{RatioCut}(A, \bar{A})$$
+$$f'Lf=|V| \cdot \mathrm{RatioCut}(A, \bar{A})$$
 
 注意到
 
@@ -107,17 +107,17 @@ $$
 
 问题变成了
 
-###### $$\min_{A \subset V} f'Lf, \quad \mathrm{s.t.} \quad f \perp \vec{1}, \quad ||f||=\sqrt{n}$$
+$$\min_{A \subset V} f'Lf, \quad \mathrm{s.t.} \quad f \perp \vec{1}, \quad ||f||=\sqrt{n}$$
 
 这是一个离散优化问题，仍然是NP-Hard的。我们忽略离散约束，使$$f_i \in \mathbb{R}$$，问题转化为
 
-###### $$\min_{f \in \mathbb{R}^n } f'Lf, \quad \mathrm{s.t.} \quad f \perp \vec{1}, \quad ||f||=\sqrt{n}$$
+$$\min_{f \in \mathbb{R}^n } f'Lf, \quad \mathrm{s.t.} \quad f \perp \vec{1}, \quad ||f||=\sqrt{n}$$
 
 根据Rayleigh-Ritz定理我们可以直接得出，当$$f$$等于矩阵$$L$$的第二个特征值$$\lambda_2$$所对应的特征向量时，上述目标函数的取值最小。
 
 求得$$f$$后，我们只需按照$$f_i$$的符号分配顶点$$v_i$$的类即可，即
 
-###### $$ \left\{
+$$ \left\{
 \begin{aligned}
 v_i \in A \quad & \mathrm{if} \quad  f_i \ge 0\\
 v_i \in \bar{A} \quad & \mathrm{if} \quad  f_i < 0
@@ -129,7 +129,7 @@ $$
 
 对于任意大小$$k$$的$$\mathrm{RatioCut}$$问题，定义$$H \in \mathbb{R}^{n \times k}$$，$$H=\{h_1, ..., h_k\}$$，其中$$h_j=(h_{1,j}, ..., h_{n, j})$$，其中
 
-###### $$ h_{i,j}=\left\{
+$$ h_{i,j}=\left\{
 \begin{aligned}
 1/\sqrt{|A_j|},\quad & \mathrm{if} \quad  v_i \in A_j \\
 0, \quad & \mathrm{otherwise} 
@@ -145,15 +145,15 @@ $$
 
 结合前面两条公式，得出
 
-###### $$\mathrm{RatioCut}(A_1, ..., A_k)=\sum_{i=1}^{k} h_i'Lh_i=\sum_{i=1}^{k} (H'LH)_{ii}=\mathrm{Tr}(H'LH)$$
+$$\mathrm{RatioCut}(A_1, ..., A_k)=\sum_{i=1}^{k} h_i'Lh_i=\sum_{i=1}^{k} (H'LH)_{ii}=\mathrm{Tr}(H'LH)$$
 
 目标函数为
 
-###### $$\min_{A_1, ..., A_k} \mathrm{Tr}(H'LH), \quad s.t. \quad H'H=I $$
+$$\min_{A_1, ..., A_k} \mathrm{Tr}(H'LH), \quad s.t. \quad H'H=I $$
 
 忽略离散约束，目标函数变成
 
-###### $$\min_{H \in \mathbb{R}^{n \times k}} \mathrm{Tr}(H'LH), \quad s.t. \quad H'H=I $$
+$$\min_{H \in \mathbb{R}^{n \times k}} \mathrm{Tr}(H'LH), \quad s.t. \quad H'H=I $$
 
 根据Rayleigh-Ritz定理我们可以直接得出，当矩阵$$H$$的第$$j$$列为矩阵$$L$$的第$$j+1$$个特征值$$\lambda_{j+1}$$所对应的特征向量时，上述目标函数的取值最小。
 
