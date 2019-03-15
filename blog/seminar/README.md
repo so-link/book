@@ -1,4 +1,7 @@
 # 课题组每周技术研讨会
+
+更多ppt格式分享见此目录中以日期命名的文件夹
+
 ## 2018-07-06
 - 冯嘉昌 [CVPR2018:Taskonomy](https://so-link.org/seminar/2018-07-06/Taskonomy.pptx)
 

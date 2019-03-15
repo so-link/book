@@ -37,10 +37,6 @@
 #### 编程思想
 - [【译】How to be a programmer](https://ahangchen.gitbooks.io/how-to-be-a-programmer-cn/content/)
 
-#### 工具相关
--  [刷爆github小绿点](kit/git/green_blush.md)
--  [Markdown系列](kit/markdown/README.md)
--  [Ubuntu初始配置](linux/ubuntu_init.md)
 
 
 
