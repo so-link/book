@@ -118,7 +118,6 @@
            - [导出chrome书签为Markdown](blog/kit/markdown/chrome_mark2_md.md)
            - [Markdown here && 微信公众号](blog/kit/markdown/wx_md.md)
          - [LaTex](blog/kit/latex/README.md)
-         - [科学上网](blog/kit/ss/README.md)
     - [thinking-in-program](blog/thinking-in-program/README.md)
         - [怎样打日志](blog/thinking-in-program/log.md)
 - [慕课](mooc.md)
